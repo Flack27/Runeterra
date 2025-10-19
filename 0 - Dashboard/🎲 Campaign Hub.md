@@ -20,11 +20,11 @@ LIMIT 10
 ```dataview
 TABLE relationship, status, importance
 FROM "1 - Characters/NPC's"
-WHERE location = "Stonewall" AND status = "alive"
+WHERE location = "Quathala" AND status = "alive"
 SORT importance DESC
 ```
 
-**Manual Update:** Change `[current location]` to match where party is (Stonewall, Quathala, or Immortal Bastion)
+**Manual Update:** Change `[current location]` to match where party is
 
 ---
 
