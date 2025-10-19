@@ -23,14 +23,10 @@
             "id": "62ed94cb774cfcaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Characters/NPC's/Major/Ashen-Shugar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ashen-Shugar"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -360,8 +356,10 @@
   },
   "active": "62ed94cb774cfcaf",
   "lastOpenFiles": [
-    "1 - Characters/NPC's/Major/Celesta.md",
+    "3 - Lore/Mysteries/Ashen-Shugar's Sword and Armor.md",
+    "1 - Characters/NPC's/Supporting/Rhuagh.md",
     "1 - Characters/NPC's/Major/Ashen-Shugar.md",
+    "1 - Characters/NPC's/Major/Celesta.md",
     "1 - Characters/NPC's/Random NPC ideas.md",
     "1 - Characters/Organizations/Mockers.md",
     "1 - Characters/NPC's/Major/The Severing Hand.md",
@@ -383,13 +381,11 @@
     "3 - Lore/Mysteries/The Forbidden Arts.md",
     "3 - Lore/Mysteries/The Bard Chime.md",
     "3 - Lore/Mysteries/Kythara the Divided.md",
-    "3 - Lore/Mysteries/Ashen-Shugar's Sword and Armor.md",
     "3 - Lore/Events/Swain Coup.md",
     "3 - Lore/Events/Marble Moon Festival.md",
     "3 - Lore/Events/Chaos War.md",
     "2 - Locations/Noxus/Stonewall/Village Event System.md",
     "2 - Locations/Noxus/Stonewall/Village Managing system.md",
-    "2 - Locations/Noxus/Stonewall/Stonewall.md",
     "5 - Resources/Maps/Stonewall/Ruined Stonewall.png",
     "5 - Resources/Maps/Stonewall/Winter Stonewall.jpg",
     "Excalidraw",
