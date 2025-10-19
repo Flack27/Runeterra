@@ -79,7 +79,6 @@ During spring its always Baby Boom
 - **Effect:** Scouts find iron/copper deposit
 - **Opportunity:** Establish new mine (2,000 GP, 4 turns to build)
 - **Income:** Produces 500 GP ore per turn once built
-- **Season Modifier:** Equal all seasons
 
 ### 3-4. Underground Spring
 
@@ -88,11 +87,6 @@ During spring its always Baby Boom
     - +1 Morale (permanent)
     - Farm efficiency +10%
     - Enables Bath House construction
-- **Season Modifier:**
-    - Spring: +30% chance (water table high)
-    - Summer: Normal
-    - Fall: +10% chance
-    - Winter: -20% chance (frozen)
 
 
 ---
