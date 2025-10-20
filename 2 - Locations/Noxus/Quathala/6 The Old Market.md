@@ -76,13 +76,11 @@ A large open square with permanent stalls and small shops around the perimeter. 
 
 ---
 
-**Old Peterus** (Herbs & Remedies, 70s, male, Shuriman immigrant)
+**Old Peterus** (Herbs & Remedies, 70s, male, Shuriman)
 
-- **Appearance**: Ancient and wizened with dark weathered skin, completely bald, long white beard, rheumy but sharp eyes, gnarled hands surprisingly steady, smells strongly of herbs and earth, robes covered in pockets bulging with plants, slight Shuriman accent
+- **Appearance**: Ancient and wizened with dark weathered skin, completely bald, long white beard, rheumy but sharp eyes, smells strongly of herbs and earth
 - Sells medicinal herbs, poultices, folk remedies
-- Came to Noxus 50 years ago, been in market for 40 years
-- Cryptic, rambles, but actually knows his stuff
-- Uses some Shuriman herbal knowledge
+- Came to Quathala 50 years ago, been in market for 40 years
 - **Traits**: Wise but eccentric, speaks in metaphors, smells like herbs
 - **Speech**: Rambling stories, "In the desert, we knew...," tangents about herb lore, occasionally slips into Shuriman phrases
 - **Goods**:
@@ -95,18 +93,14 @@ A large open square with permanent stalls and small shops around the perimeter. 
 
 **Kael Swiftfingers** (Secondhand Curiosities, 25, male, Noxian)
 
-- **Appearance**: Handsome with practiced smile, dark hair artfully messy, clean-shaven, bright green eyes that miss nothing, nimble fingers always moving, well-dressed for a market merchant (probably stolen clothes), gold earring, slight build
-- Sells "found items" (probably stolen)
+- **Appearance**: Handsome with practiced smile, dark hair artfully messy, clean-shaven, bright green eyes that miss nothing, well-dressed for a market merchant, gold earring
 - Shifty, charming when he wants to be
 - Legitimate business but shady reputation
 - **Traits**: Quick-witted, evasive, charming smile
 - **Speech**: Fast talker, "fell off a wagon," winks a lot
-- **Goods**: Random items, roll on trinket tables or:
-    - Thieves' tools (used): 20 GP
-    - Disguise kit: 15 GP
-    - Playing cards: 3 SP
-    - Dice set: 5 CP
-    - **Special**: May have one "interesting" item (DM choice, 25% chance)
+- **Goods**:
+    -  https://dungeonmastertools.github.io/items.html (Tools)
+    -  
 
 ---
 

@@ -19,6 +19,13 @@
 	- 2 party members are needed to upgrade a building to level 2
 	- 3 party members are needed to upgrade a building to level 3
 
+At the start they will need some items including
+- Carpenters tools
+- Glassblowers tools
+- Masons tools
+- Smiths tools
+- Food
+
 ---
 ## Morale System
 
@@ -160,7 +167,7 @@
 - **Laborers**: 5
 - **Requirements**: Ship Purchased + Carpenter
 - **Production**: Can transport and sell marble blocks
-- **Ship**: Small Cargo Barge (capacity: 20 blocks)
+- **Ship**: 1 Small Cargo Ship
 - **Trade Routes**:
     - **Quathala**: 1 turn round trip, base price + 1d10% markup
 - **Benefits**: Party can travel to Quathala on ship
@@ -170,32 +177,35 @@
 - **Cost**: 1,500 GP | **Time**: 4 turns
 - **Worker**: Dock Master + Captain × 2
 - **Laborers**: 20
-- **Requirements**: Level 1, warehouse
-- **Production**: Multiple trade routes
-- **Ships**:
-    - Medium Cargo Ship (capacity: 50 blocks)
+- **Requirements**: Carpenter (Level 1)
+- **Ships**: 1 Medium Cargo Ship (or smaller)
 - **Trade Routes**:
     - **Quathala**: 1 turn, base price + 1d10% markup
     - **Shurima**: 2 turns, base price + 1d20+10% markup (10-30% more)
-- **Benefits**: Run two trade routes at once
+- **Benefits**: Can harbor a  Small Sloop (party travel vessel)]
 
 **Level 3: Commercial Harbor**
 
 - **Cost**: 5,000 GP | **Time**: 6 turns
 - **Worker**: Dock Master + Captain × 3
 - **Laborers**: 40
-- **Requirements**: Level 2, multiple warehouses, shipping office
+- **Requirements**: Carpenter (Level 2)
 - **Production**: Major trade hub
-- **Ships**:
-    - Large Cargo Galleon (capacity: 100 blocks)
-    - Large Cargo Galleon (capacity: 100 blocks)
-    - Fast Clipper (twice as fast as sloop - costs 5000 GP)
+- **Ships**: 2× Large Cargo Galleons (or smaller)
 - **Trade Routes**:
     - **Quathala**: 1 turn, base price + 1d10%
     - **Shurima**: 2 turns, base price + 1d20+10% (10-30% more)
     - **Piltover**: 4 turns, base price + 2d20+20% (20-60% more)
     - **Bilgewater**: 6 turns, base price + 2d100% (2-200% more, very volatile)
-- **Benefits**: Run two trade routes at once
+- **Benefits**: Can harbor a Fast Clipper (twice as fast as sloop)
+
+| Ship                | Capacity   | Price    |
+| ------------------- | ---------- | -------- |
+| Small Cargo Barge   | 20 Blocks  | 1000 GP  |
+| Medium Cargo Ship   | 50 Blocks  | 2,500 GP |
+| Large Cargo Galleon | 100 Blocks | 5,000 GP |
+| Small Sloop         | 5 People   | 750 GP   |
+| Fast Clipper        | 50 People  | 4,000 GP |
 
 ---
 
