@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Sessions/Session 1.md",
+                "file": "2 - Locations/Noxus/Stonewall/Stonewall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "Stonewall"
             }
           }
         ],
@@ -372,8 +372,10 @@
   },
   "active": "98209032735b396f",
   "lastOpenFiles": [
-    "5 - Resources/Maps/Quathala.png",
+    "2 - Locations/Noxus/Quathala/9 The Crafter's Quarter.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall.md",
     "4 - Sessions/Session 1.md",
+    "5 - Resources/Maps/Quathala.png",
     "3 - Lore/Mysteries/The Forbidden Arts.md",
     "3 - Lore/Mysteries/Death system - Kindred's Bargain.md",
     "3 - Lore/Mysteries/The Bard Chime.md",
@@ -383,7 +385,6 @@
     "5 - Resources/Book References/Ashen-Shugar Revelation.md",
     "5 - Resources/Book References/Roderic Encounter.md",
     "2 - Locations/Noxus/Quathala/10 Duke's Manor.md",
-    "2 - Locations/Noxus/Quathala/9 The Crafter's Quarter.md",
     "1 - Characters/NPC's/Supporting/Roderick Voss.md",
     "2 - Locations/Noxus/Quathala/Quathala.md",
     "2 - Locations/Noxus/Quathala/8 The Marble Quarter.md",
@@ -391,7 +392,6 @@
     "2 - Locations/Noxus/Quathala/6 The Old Market.md",
     "2 - Locations/Noxus/Stonewall/Village Managing system.md",
     "2 - Locations/Noxus/Stonewall/Village Event System.md",
-    "2 - Locations/Noxus/Stonewall/Stonewall.md",
     "2 - Locations/Noxus/Quathala/5 Pops Tavern.md",
     "2 - Locations/Noxus/Quathala/4 Arcane Curiosities.md",
     "2 - Locations/Noxus/Quathala/3 The Northern Crown.md",

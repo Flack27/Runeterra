@@ -16,7 +16,7 @@ Stonewall was a small riverside village nestled against a mountain, built around
 **Total Population:** ~150 people
 
 **Primary Industry - Marble Mining:**
-- 20 skilled miners working the mountain mine
+- 30 skilled miners working the mountain mine
 - High-quality white/gray marble prized by nobles
 - Supplied Roderick's beautification projects
 - Mining families comprised ~60 people total
@@ -111,7 +111,7 @@ The shrine was mostly forgotten except by village elders who occasionally left o
 **At Roadside Camp (~15 people):**
 
 **Old Perrin** - Village Elder
-- Age: 72, Male, Noxian with Shuriman knowledge
+- Age: 72, Male, Shuriman
 - One of the few who knew about the shrine
 - Too frail for combat but invaluable for information
 - Knows the pass phrase but hasn't visited the shrine in years
