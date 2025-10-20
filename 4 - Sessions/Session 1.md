@@ -6,7 +6,7 @@ location: Stonewall
 act: 1
 tags: [session, act1]
 ---
-## SCENE 1: The Main Hall Meeting
+## SCENE 1: Roderick Meeting
 
 ### Setting
 
@@ -141,8 +141,6 @@ His whole manner changes - becomes focused, almost childlike in his interest.
 **He exits quickly, already muttering to himself about water flow calculations.**
 
 ---
-
-## SCENE 2: Matthias Provides Details
 
 **After Roderick leaves, Matthias's demeanor becomes colder and more professional:**
 
