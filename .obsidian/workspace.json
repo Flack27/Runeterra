@@ -11,14 +11,21 @@
             "id": "729e4e7335bccf4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "1 - Characters/PC's/Bennar Weivand.md",
-                "mode": "source",
-                "source": false
+                "file": "0 - Dashboard/Hints & Reveals.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Bennar Weivand"
+              "icon": "lucide-trello",
+              "title": "Hints & Reveals"
             }
           },
           {
@@ -357,13 +364,22 @@
   },
   "active": "729e4e7335bccf4d",
   "lastOpenFiles": [
+    "0 - Dashboard/🎲 Campaign Hub.md",
+    "3 - Lore/Mysteries/Ashen-Shugar's Sword and Armor.md",
+    "3 - Lore/Mysteries/Death system - Kindred's Bargain.md",
+    "3 - Lore/Mysteries/Kythara the Divided.md",
+    "3 - Lore/Mysteries/The Bard Chime.md",
+    "3 - Lore/Mysteries/The Forbidden Arts.md",
+    "4 - Sessions/Session 0.md",
+    "3 - Lore/Events/Swain Coup.md",
+    "3 - Lore/Events/Marble Moon Festival.md",
+    "3 - Lore/Events/Chaos War.md",
+    "1 - Characters/PC's/Bennar Weivand.md",
     "1 - Characters/PC's/Marduun.md",
     "1 - Characters/PC's/Mukai.md",
     "1 - Characters/PC's/Rha Age - Aph Ahction.md",
-    "1 - Characters/PC's/Bennar Weivand.md",
     "1 - Characters/NPC's/Major/Guy du Bas-Tyra.md",
     "5 - Resources/Maps/Stonewall/Void Stonewall.jpg",
-    "3 - Lore/Mysteries/Ashen-Shugar's Sword and Armor.md",
     "1 - Characters/NPC's/Supporting/Rhuagh.md",
     "1 - Characters/NPC's/Major/Ashen-Shugar.md",
     "1 - Characters/NPC's/Major/Celesta.md",
@@ -375,18 +391,9 @@
     "1 - Characters/NPC's/Supporting/Anita conDoin.md",
     "1 - Characters/NPC's/Minor/Amos Trask.md",
     "1 - Characters/NPC's/Minor/Master Shun.md",
-    "1 - Characters/NPC's/Minor/Armand de Sevigny.md",
-    "1 - Characters/NPC's/Minor/Nakor.md",
-    "1 - Characters/NPC's/Minor/Matthias Cray.md",
-    "0 - Dashboard/🎲 Campaign Hub.md",
-    "3 - Lore/Mysteries/Lifestone.md",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Rain Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Autumn Stonewall.jpg",
-    "3 - Lore/Mysteries/The Forbidden Arts.md",
-    "3 - Lore/Mysteries/The Bard Chime.md",
-    "3 - Lore/Mysteries/Kythara the Divided.md",
-    "3 - Lore/Events/Swain Coup.md",
     "5 - Resources/Maps/Stonewall/Ruined Stonewall.png",
     "5 - Resources/Maps/Stonewall/Winter Stonewall.jpg",
     "Excalidraw",

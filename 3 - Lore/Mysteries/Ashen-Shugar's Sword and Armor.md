@@ -1,4 +1,4 @@
-Starfall and 
+Starfall and Tabard
 ### Physical Transformation Timeline
 
 **Phase 1 - Initial Contact (Upon Attunement)**
