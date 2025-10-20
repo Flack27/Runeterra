@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Resources/Book References/Roderic Encounter.md",
+                "file": "4 - Sessions/Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roderic Encounter"
+              "title": "Session 1"
             }
           }
         ],
@@ -370,10 +370,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8f0f85aef314a177",
+  "active": "98209032735b396f",
   "lastOpenFiles": [
-    "1 - Characters/NPC's/Supporting/Roderick Voss.md",
     "5 - Resources/Book References/Roderic Encounter.md",
+    "1 - Characters/NPC's/Supporting/Roderick Voss.md",
     "2 - Locations/Noxus/Quathala/Quathala.md",
     "2 - Locations/Noxus/Quathala/10 Duke's Manor.md",
     "5 - Resources/Maps/Quathala.png",
