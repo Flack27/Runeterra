@@ -151,14 +151,14 @@
 
 **Level 0: Destroyed** (Starting state)
 
-- Must purchase ship (1000 GP)
+- **Must purchase first ship**
 
 **Level 1: Basic Dock**
 
-- **Cost**: 500 GP | **Time**: 2 turns
+- **Cost**: 250 GP | **Time**: 2 turns
 - **Worker**: Dock Master + Captain
 - **Laborers**: 5
-- **Requirements**: Dock repaired + Carpenter
+- **Requirements**: Ship Purchased + Carpenter
 - **Production**: Can transport and sell marble blocks
 - **Ship**: Small Cargo Barge (capacity: 20 blocks)
 - **Trade Routes**:
