@@ -100,39 +100,51 @@ A large open square with permanent stalls and small shops around the perimeter. 
 - **Speech**: Fast talker, "fell off a wagon," winks a lot
 - **Goods**:
     -  https://dungeonmastertools.github.io/items.html (Tools)
-    -  
+    -  Roll d100 at the start of each week to determine what Kael has: 
 
----
+| d100 Roll | Inventory Available                         |
+| --------- | ------------------------------------------- |
+| 01-33     | Nothing interesting (mundane trinkets only) |
+| 34-55     | 2 Common magic items                        |
+| 56-67     | 3 Common magic items                        |
+| 68-77     | 1 Uncommon + 2 Common                       |
+| 78-86     | 2 Uncommon + 1 Common                       |
+| 87-92     | 1 Rare + 1 Uncommon                         |
+| 93-97     | 1 Rare + 2 Common                           |
+| 98-99     | 1 Very Rare                                 |
+| 00        | 1 Very Rare + 1 Uncommon                    |
+https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ArcanaTables
 
-**Senna Copperscale** (Traveling Merchant, 30s, female, Vastaya - serpentine traits)
+**Kael's Pricing**
 
-- **Appearance**: Striking features with subtle reptilian heritage - faint iridescent copper scales at temples, neck and forearms, golden eyes with vertical pupils, long copper-red hair with natural metallic sheen, graceful serpentine movements, exotic clothing mixing Ionian and Noxian styles, forked tongue occasionally visible when speaking, carries scent of foreign spices
-- Only in market 2 days per week (traveling circuit between Quathala and coastal cities)
-- Sells exotic goods from Ionia, Bilgewater, and other regions
-- Mysterious, knows more than she says
-- Faces occasional discrimination but most locals are used to her by now
-- **Traits**: Observant, cryptic hints, fair but firm on prices, patient with ignorance but not cruelty
-- **Speech**: Slightly sibilant S's, few words, "You'll need this soon," mysterious warnings, sometimes hisses when irritated
-- **Goods**:
-    - Ionian silk scarf: 10 GP
-    - Shuriman spices: 5 GP
-    - "Lucky" charms from various regions: 1 GP each
-    - Map of regional trade routes: 5 GP
-    - **Special**: She notices if party has Bennar's Bard Chime (her serpent-heritage gives her magical sensitivity - sees the temporal magic but says nothing, just watches with interest)
+- **Common Items**: 75-125 GP (will negotiate to 50-100 GP) 
+- **Uncommon Items**: 200-400 GP (will negotiate to 150-300 GP) 
+- **Rare Items**: 1,500-3,000 GP (will negotiate to 1,000-2,500 GP) 
+- **Very Rare Items**: 8,000-15,000 GP (will negotiate to 5,000-10,000 GP)
+
+**Kael's Story About Items**
+
+No matter what he has, Kael always has a convenient story:
+
+- "Fell off a wagon heading to the capital"
+- "Estate sale from a noble family - sad story really"
+- "Friend owed me a favor"
+- "You wouldn't believe where I found this..."
+- "Former adventurer had to sell their gear - bad knees"
 
 ---
 
 **Dovan** (Fish Monger, 40s, male, Noxian)
 
-- **Appearance**: Powerfully built from years of hauling nets, sun-darkened skin, salt-and-pepper beard, missing part of right ear (fishing accident), smells of fish and brine, wears waterproof leather apron, loud voice from shouting over waves
+- **Appearance**: Powerfully built from years of hauling nets, sun-darkened skin, salt-and-pepper beard, missing part of right ear (fishing accident)
 - Sells fresh fish from the river and coast
 - Former fisherman, now buys from others and sells
 - Gruff but fair, hates wasting food
 - **Traits**: Loud, practical, generous to hungry children
-- **Speech**: Booming voice, "Fresh today!", fishing metaphors for everything
+- **Speech**: Booming voice, "Fresh today!"
 - **Goods**:
     - Fresh fish: 1-5 CP depending on size
-    - Salted fish (rations): 5 CP per day
+    - Salted fish (rations): 5 CP
     - Sometimes has rare catches: 1 GP
 
 ---
@@ -144,20 +156,16 @@ A large open square with permanent stalls and small shops around the perimeter. 
 - Merchants calling out wares
 - Housewives haggling
 - Children running between stalls
-- Guards doing rounds (2 city watch)
 
 **Afternoon (Quiet)**
 
 - Most customers gone
 - Merchants pack up early
 - Good time for private conversations
-- Pickpockets more active
 
 **Conversations Overheard**:
 
 - "Can't afford Duke's taxes AND food"
 - "Roads ain't safe - three merchant caravans hit last month"
 - "Heard Stonewall went silent - plague maybe?"
-- "That marble project costs more than my farm makes in a year"
-- "Where's the garrison when bandits are about?"
-- "My son died in Ionia for THIS?" (bitter veteran's widow)
+- "That marble project costs more per day than my farm makes in a year"
