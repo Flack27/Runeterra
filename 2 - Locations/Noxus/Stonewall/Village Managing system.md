@@ -151,7 +151,7 @@
 
 **Level 0: Destroyed** (Starting state)
 
-- Must repair basic dock (300 GP + 1 turn)
+- Must purchase ship (1000 GP)
 
 **Level 1: Basic Dock**
 
@@ -167,17 +167,17 @@
 
 **Level 2: Trade Port**
 
-- **Cost**: 1,000 GP | **Time**: 4 turns
+- **Cost**: 1,500 GP | **Time**: 4 turns
 - **Worker**: Dock Master + Captain × 2
 - **Laborers**: 20
 - **Requirements**: Level 1, warehouse
 - **Production**: Multiple trade routes
 - **Ships**:
     - Medium Cargo Ship (capacity: 50 blocks)
-    - Small Sloop (party travel vessel)
 - **Trade Routes**:
     - **Quathala**: 1 turn, base price + 1d10% markup
     - **Shurima**: 2 turns, base price + 1d20+10% markup (10-30% more)
+- **Benefits**: Run two trade routes at once
 
 **Level 3: Commercial Harbor**
 
@@ -189,13 +189,13 @@
 - **Ships**:
     - Large Cargo Galleon (capacity: 100 blocks)
     - Large Cargo Galleon (capacity: 100 blocks)
-    - Fast Clipper (twice as fast as sloop)
+    - Fast Clipper (twice as fast as sloop - costs 5000 GP)
 - **Trade Routes**:
     - **Quathala**: 1 turn, base price + 1d10%
     - **Shurima**: 2 turns, base price + 1d20+10% (10-30% more)
     - **Piltover**: 4 turns, base price + 2d20+20% (20-60% more)
     - **Bilgewater**: 6 turns, base price + 2d100% (2-200% more, very volatile)
-- **Benefits**: Run two trade routes at once, warehouse stores 200 blocks
+- **Benefits**: Run two trade routes at once
 
 ---
 

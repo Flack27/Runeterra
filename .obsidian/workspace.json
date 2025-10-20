@@ -11,21 +11,14 @@
             "id": "729e4e7335bccf4d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "0 - Dashboard/Hints & Reveals.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "2 - Locations/Noxus/Stonewall/Village Managing system.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Hints & Reveals"
+              "icon": "lucide-file",
+              "title": "Village Managing system"
             }
           },
           {
@@ -36,6 +29,18 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "98209032735b396f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "5 - Resources/Maps/Quathala.png"
+              },
+              "icon": "lucide-image",
+              "title": "Quathala"
             }
           }
         ]
@@ -364,6 +369,14 @@
   },
   "active": "729e4e7335bccf4d",
   "lastOpenFiles": [
+    "2 - Locations/Noxus/Quathala/6 The Old Market.md",
+    "2 - Locations/Noxus/Quathala/5 Pops Tavern.md",
+    "2 - Locations/Noxus/Quathala/4 Arcane Curiosities.md",
+    "2 - Locations/Noxus/Quathala/3 The Northern Crown.md",
+    "5 - Resources/Maps/Quathala.png",
+    "2 - Locations/Noxus/Quathala/1-2 The Empty Garrison.md",
+    "2 - Locations/Noxus/Quathala/Quathala.md",
+    "0 - Dashboard/Hints & Reveals.md",
     "0 - Dashboard/🎲 Campaign Hub.md",
     "3 - Lore/Mysteries/Ashen-Shugar's Sword and Armor.md",
     "3 - Lore/Mysteries/Death system - Kindred's Bargain.md",
@@ -384,13 +397,6 @@
     "1 - Characters/NPC's/Major/Ashen-Shugar.md",
     "1 - Characters/NPC's/Major/Celesta.md",
     "1 - Characters/NPC's/Random NPC ideas.md",
-    "1 - Characters/Organizations/Mockers.md",
-    "1 - Characters/NPC's/Major/The Severing Hand.md",
-    "1 - Characters/NPC's/Major/Zilean.md",
-    "1 - Characters/NPC's/Major/Keth'vyss.md",
-    "1 - Characters/NPC's/Supporting/Anita conDoin.md",
-    "1 - Characters/NPC's/Minor/Amos Trask.md",
-    "1 - Characters/NPC's/Minor/Master Shun.md",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Rain Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Autumn Stonewall.jpg",
@@ -400,7 +406,6 @@
     "2 - Locations/Noxus/Stonewall",
     "5 - Resources/Maps/Stonewall/Ruind Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Stonewall Reconstruction.pdn",
-    "5 - Resources/Maps/Quathala.png",
     "5 - Resources/Maps/Stonewall",
     "2 - Locations/Noxus/Immortal Bastion",
     "Untitled 1.base",
