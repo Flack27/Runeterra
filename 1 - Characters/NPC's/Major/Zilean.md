@@ -51,7 +51,7 @@ After studying the timeline and learning from Marduun, unlocks Ashen-Shugar's su
 ## Lore & Connections
 
 - [[Keth'vyss]] - Has taken over his body
-- [[Celesta]] - The one whose plan he tried to stop
+- [[Aethera, the Tending Light]] - The one whose plan he tried to stop
 - [[Ashen-Shugar]] - Will unlock his suppressed memories to reveal the full truth
 - [[Ionia]] - Where his possessed body now is
 

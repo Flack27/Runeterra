@@ -50,7 +50,7 @@ Party will have to stop him before his madness destroys Ionia
 ## Lore & Connections
 
 - [[Zilean]] - His current host body
-- [[Celesta]] - Was defeated by their fusion
+- [[Aethera, the Tending Light]] - Was defeated by their fusion
 - [[Valheru]] - Obsessed with their technology
 - [[Ionia]] - Current operation location
 

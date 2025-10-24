@@ -61,7 +61,7 @@ Nakor is an enigmatic Shuriman wanderer who has traveled the world for longer th
 **Where:**
 
 - Shuriman desert, fleeing gambling debts
-- Perfect comic relief after heavy [[Celesta]]/[[Zilean]] revelations
+- Perfect comic relief after heavy [[Aethera, the Tending Light]]/[[Zilean]] revelations
 - Lightens mood during journey to [[Lifestone]]
 
 **What He Knows:**
