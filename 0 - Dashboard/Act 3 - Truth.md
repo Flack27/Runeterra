@@ -5,8 +5,8 @@
 
 ### Critical Path
 - [ ] Party returns from Ionia after Keth'vyss escapes
-- [ ] Celesta offers to track him (needs more power/artifacts)
-- [ ] Party provides resources, Celesta grows significantly stronger
+- [ ] Aethera offers to track him (needs more power/artifacts)
+- [ ] Party provides resources, Aethera grows significantly stronger
 - [ ] Marduun's Valheru fusion reaches completion during downtime
 
 ### GM Notes
@@ -34,14 +34,14 @@
 ## Chapter 15: Hunt for Keth'vyss
 
 ### Critical Path
-- [ ] Celesta "locates" Keth'vyss in ancient Shuriman ruins
+- [ ] Aethera "locates" Keth'vyss in ancient Shuriman ruins
 - [ ] Journey to Shurima with mounting Severing Hand pursuit
 - [ ] Discover Valheru remnants, more Ashen-Shugar memories surface
 - [ ] Major Severing Hand confrontation - philosophical conflict about knowledge
 
 ### GM Notes
 - More details about Keth'vyss' original noble goals
-- Hints that Celesta knows more than she admits
+- Hints that Aethera knows more than she admits
 - Ashen-Shugar memories becoming clearer but incomplete
 
 ---
@@ -49,14 +49,14 @@
 ## Chapter 16: Convergence
 ### Critical Path
 - [ ] Find Keth'vyss at portal research site
-- [ ] Celesta arrives to "help" as battle begins
-- [ ] Keth'vyss recognizes Celesta: "No... not you... you're supposed to be contained!"
-- [ ] Keth'vyss fights desperately against Celesta, not the party
-- [ ] Celesta reveals true nature and absorbs Keth'vyss
-- [ ] **THE GREAT REVELATION:** Celesta's identity as corrupted Celestial
+- [ ] Aethera arrives to "help" as battle begins
+- [ ] Keth'vyss recognizes Aethera: "No... not you... you're supposed to be contained!"
+- [ ] Keth'vyss fights desperately against Aethera, not the party
+- [ ] Aethera reveals true nature and absorbs Keth'vyss
+- [ ] **THE GREAT REVELATION:** Aethera's identity as corrupted Celestial
 
 ### GM Notes
-- Celesta's manipulation of entire campaign revealed
+- Aethera's manipulation of entire campaign revealed
 - Her plan to open permanent Void portals exposed
 - Keth'vyss' noble intentions twisted by madness
 - Scope of Watcher threat revealed
@@ -69,13 +69,13 @@
 - [ ] Zilean freed when Keth'vyss is assimilated
 - [ ] Zilean uses temporal magic to unlock Ashen-Shugar's suppressed memories
 - [ ] **Complete history revealed:** Chaos War, Lifestone, Valheru betrayal [[Ashen-Shugar Revelation]]
-- [ ] Understanding the real threat: Celesta's plan for Watchers' return
+- [ ] Understanding the real threat: Aethera's plan for Watchers' return
 
 ### Major Revelations
 - [ ] Why Ashen-Shugar was different (temporal paradox)
 - [ ] What the Lifestone actually does
 - [ ] Why Watchers hate Ashen-Shugar specifically
-- [ ] True scope of Celesta's plan
+- [ ] True scope of Aethera's plan
 
 ### GM Notes
 - Full circle moment - everything connects
@@ -84,7 +84,7 @@
 
 ---
 ### Setup for Act 4
-- [ ] Celesta/Keth'vyss fusion makes her powerful enough for Lifestone
+- [ ] Aethera/Keth'vyss fusion makes her powerful enough for Lifestone
 - [ ] Race to prevent Watcher invasion
 - [ ] Final confrontation at Lifestone location
 - [ ] Stakes: survival of Runeterra itself

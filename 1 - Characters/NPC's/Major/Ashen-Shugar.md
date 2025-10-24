@@ -50,7 +50,6 @@ Zilean unlocks the suppressed memories, revealing the complete truth
 - [[Chaos War]] - The conflict in which he made his choice
 - [[Lifestone]] - The weapon he stopped from activation
 - [[Zilean]] - Influenced his sword's placement, will later unlock his memories
-- [[Watchers]] - The corrupted Valheru he indirectly created
 - [[Rhuagh]] - The dragon who carried his sword to the party
 
 ## GM Notes

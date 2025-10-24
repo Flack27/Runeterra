@@ -8,7 +8,6 @@ act-introduced: 1
 act-revealed: 3
 character-arc: main-antagonist
 tags:
-  - celesta-deception
   - void-corruption
   - watchers
   - act3-reveal

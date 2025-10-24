@@ -6,7 +6,7 @@
 ### Critical Path
 - [ ] 1-2 year downtime: Stonewall restoration, party hears about Swain's coup
 - [ ] Marduun's gradual physical transformation begins (height, eyes, bearing)
-- [ ] Celesta sends party to Ionia claiming Keth'vyss is a threat
+- [ ] Aethera sends party to Ionia claiming Keth'vyss is a threat
 - [ ] Journey to Ionia: Ashen-Shugar visions become more frequent/violent
 
 ### GM Notes
