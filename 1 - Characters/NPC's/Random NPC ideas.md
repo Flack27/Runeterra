@@ -7,7 +7,7 @@ There is one certain truth with time, this life unfailingly flies;
 https://9animetv.to/watch/lord-of-mysteries-19802?ep=143371 27.15
 
 
-**Quote Reverand Insanity**
+**Quote Reverant Insanity**
 "Let me teach you something people often misunderstand. They say, 'Never be kind to the wrong person — you'll regret it.' But regret only exists when your actions depend on outcomes. True strength lies in doing something not because it benefits you, but because it aligns with your will.
 
 I am kind when I choose to be — Not because you deserve it, Not because I expect anything in return, But because it is my choice.
