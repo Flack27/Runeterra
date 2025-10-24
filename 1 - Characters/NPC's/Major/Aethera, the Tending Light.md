@@ -60,7 +60,7 @@ Aethera came to Stonewall after sensing [[Keth'vyss]]'s presence—a Darkin scho
 
 Realizing she could not win in her current state, Aethera made a desperate choice: she sealed herself within an immense protective barrier, channeling all her remaining power into an impenetrable shield. The barrier would protect her, but left her completely drained and vulnerable—unable to move, unable to act, simply waiting within her cocoon of light.
 
-Keth'vyss, freed from his prison and now in control of a powerful host body, opened a portal and fled to Ionia to resume his "research." He left Aethera trapped in her own barrier, essentially leaving her to slowly fade away. The catastrophic battle and subsequent Void energies from the portal caused the few remaining villagers to flee Stonewall in terror.
+Keth'vyss, freed from his prison and now in control of a powerful host body, opened a portal and fled to Ionia to resume his "research." He left Aethera trapped in her own barrier, essentially leaving her to slowly fade away. The subsequent Void energies and creatures from the unstable portal caused the devastation Stonewall.
 
 ### First Encounter (Session 1)
 
@@ -154,12 +154,6 @@ At the Lifestone, Aethera attempts to open the portal for the Watchers to activa
 - "Please don't make me do this. I don't want to hurt my children."
 - Fights with sad determination, not rage
 - Uses non-lethal methods when possible (she wants them to understand, not die hating her)
-
-**If Defeated:** Her final words depend on her state:
-
-- Before Keth'vyss absorption: "Perhaps... perhaps there was another way. But I'm too tired to see it anymore."
-- After full corruption: "You don't understand... I was _saving_ you. From yourselves. From endless suffering. I loved you. I love you still."
-
 ### Future Development Notes
 
 **If Campaign Continues Beyond Her Defeat:**
