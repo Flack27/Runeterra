@@ -19,52 +19,70 @@ tags:
 
 ## Background
 
-Keth'vyss was once a brilliant Ascended scholar of Shurima, specialized in portal magic and Valheru technology. He studied interdimensional travel and wanted to defend Runeterra by using this knowledge. When Icathia fell, he became a Darkin but retained his sanity and noble goals. However, centuries of imprisonment by Zoe have broken his mind. Now he still believes he must save the world from the Void, but his methods have become insane - he opens Void portals to "study" them, precisely what the enemy wants.
+Keth'vyss was once a brilliant Ascended scholar of Shurima, specialized in portal magic and Valheru technology. He was obsessed with understanding interdimensional travel and studied ancient Valheru ruins extensively. When Icathia fell and the Void War began (~3000 years ago), he fought alongside the other Ascended. However, the horrors he witnessed—combined with his deep exposure to Void energies during the war—began to corrupt his mind.
+
+Unlike most Ascended who descended into complete madness and became warlords during the Darkin War, Keth'vyss retained enough sanity to recognize what was happening to him. As the blood magic corruption spread through the Ascended ranks, he retreated to one of his research temples in what would later become Stonewall. There, isolated from the war, he resumed his studies with his "newfound knowledge"—the twisted insights the Void corruption had given him.
+
+Over centuries in isolation, his madness deepened. He convinced himself that he could master portal magic to defend Runeterra from the Void by understanding it completely. His research became increasingly dangerous as he opened small rifts "for study".
+
+Eventually, he was sealed by the Aspect of Twilight (or a mortal wielding Twilight's knowledge) into his staff, imprisoned in the temple that would become the shrine beneath Stonewall. There he remained for over two thousand years until recent events.
 
 ## Appearance & Mannerisms
 
-- **Age:** Ancient (Ascended/Darkin)
+- **Age:** ~3000+ years old (Ascended/Darkin)
 - **Race:** Darkin (formerly Ascended)
-- **Appearance:** Zilean's body but with Darkin corruption - glowing eyes, dark energy
-- **Speech Pattern:** Academic but insane, speaks about "salvation" and "research"
-- **Notable Features:** Constant internal struggle between Zilean and Keth'vyss consciousness
+- **Current Form:** Possessing Zilean's body—aged but with Darkin corruption showing through (glowing eyes, dark energy)
+- **Speech Pattern:** Academic and scholarly, but with manic undertones. Speaks about "research" and "understanding" with dangerous enthusiasm
+- **Notable Features:** Mad, speaks of how important his research is and that he the portals he opens are safe (they are not).
 
 ## Campaign Story
 
-### Defeat of Celesta (Pre-campaign)
+### Liberation and Flight (Pre-Campaign)
 
-Zilean let Keth'vyss take over his body to defeat Celesta
+When Aethera came to Stonewall to absorb Keth'vyss for his portal knowledge and Valheru essence, Zilean intervened. Zilean allowed Keth'vyss to possess his body, creating a fusion powerful enough to wound a Celestial. After driving Aethera back, the Zilean/Keth'vyss fusion fled to Ionia, where Keth'vyss seeks ancient Valheru remnants.
 
-### Flight to Ionia (Current)
+### Current Activities (Act 2)
 
-Fled to Ionia to search for Valheru remnants
+In Ionia, Keth'vyss searches for Valheru ruins and artifacts, opening "controlled" Void portals for his research. He genuinely believes he's learning how to defend against the Void, completely blind to the fact that every portal he opens serves the Void's purposes.
 
-### Corruption Activities (Planned)
+### Future Confrontation (Act 3)
 
-Opens a Void portal for "research"
-
-### Future Confrontation (Planned)
-
-Party will have to stop him before his madness destroys Ionia
-
-## Lore & Connections
-
-- [[Zilean]] - His current host body
-- [[Aethera, the Tending Light]] - Was defeated by their fusion
-- [[Valheru]] - Obsessed with their technology
-- [[Ionia]] - Current operation location
+The party will eventually confront Keth'vyss in Shurima. During or after this encounter, Aethera will arrive to complete what she started—absorbing him for the knowledge and power she needs to execute her plan at the Lifestone.
 
 ## GM Notes
 
-**Internal Conflict:** Zilean's consciousness constantly fights against Keth'vyss' control. This leads to unpredictable behavior and moments when Zilean temporarily breaks through.
+### His Delusion
 
-**Ironic Tragedy:** He thinks he's the hero but does exactly what the Void wants. Every portal he opens to "study" makes the Void invasion worse.
+When confronted about the danger of his portals:
 
-**Research Obsession:** Seeks ancient Valheru artifacts and knowledge, corrupts sacred Ionian sites to use the magical energy for his experiments.
+- "They're perfectly safe! I have them under control!"
+- "Yes, a few creatures came through, but that's expected in research"
+- "The data I'm gathering will save countless lives when the real invasion comes"
+- "You don't understand—I'm _this close_ to cracking the fundamental principles!"
 
-**Noble but Mad:** His original motivations were noble - protect Runeterra. But imprisonment has driven him insane and his methods are now destructive.
+### Why Aethera Needs Him
 
-**Future Arc:** Eventually Celesta will try to assimilate him for his portal-opening powers. This will enable the final confrontation at the Lifestone.
+**Portal Expertise:** Keth'vyss has unparalleled knowledge of portal magic, especially Valheru portal technology. This expertise is critical for opening a rift large enough for a part of the Watchers to manifest.
+
+**The Absorption:** When Aethera finally absorbs him, she gains both his knowledge and his powers, completing the tools she needs to open the portal for the Watchers.
+
+### Roleplaying Keth'vyss
+
+**Voice & Tone:**
+
+- Excited, almost manic when discussing his research
+- Dismissive of danger—"I have it under control!"
+- Genuinely believes he's helping
+
+### Combat Notes
+
+**Powers:**
+
+- Darkin strength and hemomancy
+- Portal magic and dimensional manipulation
+- Zilean's temporal abilities
+- Corrupted Ascended warrior skills
+- Can fight across up to 3 different timelines (3 battles which need to be won)
 
 ---
 
