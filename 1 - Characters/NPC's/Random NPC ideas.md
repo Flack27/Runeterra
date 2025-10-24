@@ -5,3 +5,13 @@ Introduction: NPC that does something quite outrageous, hindering someone / some
 Oh, the infernal threats of hell, the hope of crimson cries!
 There is one certain truth with time, this life unfailingly flies;
 https://9animetv.to/watch/lord-of-mysteries-19802?ep=143371 27.15
+
+
+**Quote Reverand Insanity**
+"Let me teach you something people often misunderstand. They say, 'Never be kind to the wrong person — you'll regret it.' But regret only exists when your actions depend on outcomes. True strength lies in doing something not because it benefits you, but because it aligns with your will.
+
+I am kind when I choose to be — Not because you deserve it, Not because I expect anything in return, But because it is my choice.
+
+Betray me, lie to me, take advantage of me — that is your nature. But my kindness — that is mine. And I do not change who I am just because the world fails to meet my expectations.
+
+In a world of schemers and betrayers, to remain untouched — to be kind by will, not by hope — That is not weakness."
