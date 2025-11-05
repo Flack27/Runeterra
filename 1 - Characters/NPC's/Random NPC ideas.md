@@ -15,3 +15,7 @@ I am kind when I choose to be — Not because you deserve it, Not because I expe
 Betray me, lie to me, take advantage of me — that is your nature. But my kindness — that is mine. And I do not change who I am just because the world fails to meet my expectations.
 
 In a world of schemers and betrayers, to remain untouched — to be kind by will, not by hope — That is not weakness."
+
+
+**Someone like Jado Shati from Raymond E Feist series**
+Especially his speech pattern
