@@ -25,28 +25,16 @@
             "id": "62ed94cb774cfcaf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "98209032735b396f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1 - Characters/NPC's/Random NPC ideas.md",
-                "mode": "source",
-                "source": false
+                "file": "5 - Resources/Maps/Quathala.png"
               },
-              "icon": "lucide-file",
-              "title": "Random NPC ideas"
+              "icon": "lucide-image",
+              "title": "Quathala"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,11 +180,15 @@
               "state": {
                 "calendar": "ID_9ae9abaa9b48",
                 "ephemeral": {
-                  "viewing": null,
+                  "viewing": {
+                    "day": 7,
+                    "month": 0,
+                    "year": 989
+                  },
                   "viewState": 1,
                   "displaying": {
-                    "day": 24,
-                    "month": 1,
+                    "day": 7,
+                    "month": 0,
                     "year": 989
                   },
                   "displayDayNumber": false,
@@ -206,7 +198,8 @@
                   "displayWeather": true,
                   "location": ""
                 },
-                "id": "ID_18d89b6959e9"
+                "id": "ID_18d89b6959e9",
+                "child": "ID_1a19e989e8fa"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -330,7 +323,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "eee0b0b0fa5fd76f",
@@ -345,6 +338,26 @@
                 "calendar": "ID_9ae9abaa9b48",
                 "id": "ID_a908c8ba1979",
                 "parent": "ID_98bb185a5bea"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      },
+      {
+        "id": "57bd8823f5d5820e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "002478691e340b91",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_9ae9abaa9b48",
+                "id": "ID_1a19e989e8fa",
+                "parent": "ID_18d89b6959e9"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -370,19 +383,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "98209032735b396f",
+  "active": "62ed94cb774cfcaf",
   "lastOpenFiles": [
+    "4 - Sessions/Session 0.md",
+    "2 - Locations/Noxus/Quathala/Quathala.md",
+    "2 - Locations/Noxus/Quathala/1-2 The Empty Garrison.md",
+    "2 - Locations/Noxus/Immortal Bastion/Ancient Tunnels.md",
+    "2 - Locations/Noxus/Immortal Bastion/Immortal Bastion.md",
+    "2 - Locations/Noxus/Quathala/3 The Northern Crown.md",
+    "1 - Characters/PC's/Bennar Weivand.md",
+    "0 - Dashboard/Act 1 - Stonewall.md",
+    "0 - Dashboard/Act 3 - Truth.md",
+    "0 - Dashboard/Act 2 - Ionia.md",
+    "1 - Characters/Organizations/Mockers.md",
+    "1 - Characters/NPC's/Random NPC ideas.md",
     "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
     "2 - Locations/Noxus/Stonewall/Stonewall.md",
-    "0 - Dashboard/Act 2 - Ionia.md",
-    "0 - Dashboard/Act 3 - Truth.md",
     "1 - Characters/NPC's/Major/Keth'vyss.md",
     "1 - Characters/NPC's/Major/Ashen-Shugar.md",
-    "0 - Dashboard/Act 1 - Stonewall.md",
     "1 - Characters/NPC's/Major/Zilean.md",
     "0 - Dashboard/Timeline.md",
     "1 - Characters/NPC's/Major/Guy du Bas-Tyra.md",
-    "1 - Characters/NPC's/Random NPC ideas.md",
     "3 - Lore/History/Valheru.md",
     "1 - Characters/NPC's/Major/The Severing Hand.md",
     "3 - Lore/Events/Chaos War.md",
@@ -390,15 +411,7 @@
     "3 - Lore/Mysteries/The Forbidden Arts.md",
     "3 - Lore/Mysteries/Lifestone.md",
     "3 - Lore/Events/Swain Coup.md",
-    "3 - Lore/Events/Marble Moon Festival.md",
-    "0 - Dashboard/🎲 Campaign Hub.md",
-    "4 - Sessions/Session 1.md",
-    "2 - Locations/Noxus/Quathala/9 The Crafter's Quarter.md",
     "5 - Resources/Maps/Quathala.png",
-    "3 - Lore/Mysteries/Death system - Kindred's Bargain.md",
-    "3 - Lore/Mysteries/The Bard Chime.md",
-    "5 - Resources/Book References/Murmandamus Speech.md",
-    "5 - Resources/Book References/Guy Explanation.md",
     "5 - Resources/Maps/Stonewall/Void Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Rain Stonewall.jpg",
