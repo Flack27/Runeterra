@@ -25,12 +25,14 @@
             "id": "62ed94cb774cfcaf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "5 - Resources/Maps/Quathala.png"
+                "file": "5 - Resources/Runeterra Magic Items.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Quathala"
+              "icon": "lucide-file",
+              "title": "Runeterra Magic Items"
             }
           }
         ],
@@ -385,6 +387,10 @@
   },
   "active": "62ed94cb774cfcaf",
   "lastOpenFiles": [
+    "5 - Resources/Runeterra Enemies.md",
+    "5 - Resources/Random NPC ideas.md",
+    "5 - Resources/Runeterra Magic Items.md",
+    "5 - Resources/Maps/Quathala.png",
     "4 - Sessions/Session 0.md",
     "2 - Locations/Noxus/Quathala/Quathala.md",
     "2 - Locations/Noxus/Quathala/1-2 The Empty Garrison.md",
@@ -396,7 +402,6 @@
     "0 - Dashboard/Act 3 - Truth.md",
     "0 - Dashboard/Act 2 - Ionia.md",
     "1 - Characters/Organizations/Mockers.md",
-    "1 - Characters/NPC's/Random NPC ideas.md",
     "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
     "2 - Locations/Noxus/Stonewall/Stonewall.md",
     "1 - Characters/NPC's/Major/Keth'vyss.md",
@@ -409,9 +414,6 @@
     "3 - Lore/Events/Chaos War.md",
     "0 - Dashboard/Act 4 - Finale.md",
     "3 - Lore/Mysteries/The Forbidden Arts.md",
-    "3 - Lore/Mysteries/Lifestone.md",
-    "3 - Lore/Events/Swain Coup.md",
-    "5 - Resources/Maps/Quathala.png",
     "5 - Resources/Maps/Stonewall/Void Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Rain Stonewall.jpg",
