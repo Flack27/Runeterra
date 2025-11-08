@@ -27,6 +27,48 @@
 - _Loot:_ None (corrupted flesh decays immediately)
 
 ---
+### Noxian Wilderness Creatures
+
+**Murk Wolf** (Pack Predator, CR 1/2) _Environment: Noxian forests, wilderness, anywhere dark and wooded_ Large wolves with dark gray-black fur. Hunt in packs of 4-8. Alpha wolves are larger and more aggressive. Eyes gleam in darkness.
+
+- _Behavior:_ Pack hunters, surround prey, focus on weakest target
+- _Combat:_ Pack tactics, trip attacks, alpha has howl that buffs pack
+- _Loot:_ Wolf pelts (good quality), meat
+
+**Raptor** (Aggressive Bird, CR 1) _Environment: Noxian wilderness, rocky areas, nesting in cliffs_ Large predatory birds with razor-sharp talons and beaks. Feathers range from brown to red. Territorial and aggressive. Often in pairs or small groups.
+
+- _Behavior:_ Dive attacks from above, very territorial near nests
+- _Combat:_ Fly-by attacks, can grab and lift small creatures, pack tactics with other raptors
+- _Loot:_ Raptor feathers (fletching), talons (crafting)
+
+**Krug** (Stone Elemental, CR 1) _Environment: Rocky areas, quarries, mountainous regions of Noxus_ Living stone creatures that look like piles of rocks until they move. Slow but tough. Smaller krugs orbit larger ones. Range from small (dog-sized) to large (bear-sized).
+
+- _Behavior:_ Territorial, slow to anger but relentless once provoked
+- _Combat:_ High AC and HP, slow movement, powerful slams, resistant to physical damage
+- _Special:_ When large krug destroyed, splits into 2-3 smaller krugs
+- _Loot:_ Stone shards (building material), sometimes gemstones
+
+**Scuttle Crab** (Harmless/Docile, CR 0) _Environment: Rivers, streams, near water sources_ Large crab-like creature with crystalline shell. Moves sideways rapidly when threatened. Non-aggressive unless cornered.
+
+- _Behavior:_ Flees from danger, can be used as food source or for shell material
+- _Combat:_ No attacks, just runs away (very fast), tough shell
+- _Special:_ Shell can be harvested for shields or armor (requires tools)
+- _Loot:_ Scuttle shell (shield material), crab meat (good eating)
+
+**Rift Herald, Lesser** (Void-Touched Beast, CR 3) _Environment: Areas near old Void rifts, corrupted wilderness_ Smaller cousin of the massive Rift Herald. Size of large bear. Chitinous purple carapace, single large eye on back, crab-like claws. Void corruption made it aggressive.
+
+- _Behavior:_ Charges at threats, uses environment for ramming attacks
+- _Combat:_ Powerful charge attack, tough frontal armor, eye on back is weak point
+- _Special:_ Vulnerable to damage from behind (eye), resistant to frontal attacks
+- _Loot:_ Void-touched chitin, Herald eye (magical component)
+
+**Noxian Razorbeak** (Aggressive Avian, CR 1/2) _Environment: Noxian wilderness, forests, hunts in flocks_ Smaller than raptors but more aggressive. Hunt in larger flocks (6-12). Dark feathers, sharp beaks. Fast and annoying.
+
+- _Behavior:_ Swarm tactics, hit-and-run attacks, mob lone targets
+- _Combat:_ Numerous but individually weak, fly-by attacks, bleeding pecks
+- _Loot:_ Feathers, small amount of meat
+
+---
 
 ### Noxian Enemies
 
