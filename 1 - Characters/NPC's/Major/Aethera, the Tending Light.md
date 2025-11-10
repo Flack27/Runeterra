@@ -83,48 +83,15 @@ The party must help her recover by giving her items of magical power (magical it
 
 ### Deception Phase (Act 1-2)
 
-**The Mutual Agreement:** Aethera proposes a partnership: she will help the party with her knowledge and growing power, and in return, they help her recover her strength and eventually stop Keth'vyss. This is a genuine offer—she truly wants to help them, and she truly needs their help.
-
-**Act 1 - Early Recovery (Weak State):** At first, Aethera can offer little beyond:
-
-- Knowledge and information about the world, history, and threats
-- Minor magical guidance or advice
-
-_Early Recovery (30-40% strength):_
-
-- Can grant minor boons (small stat buffs, temporary abilities)
-- Cast low level magical spells (1-3)
-- Can give a magical item that functions as a scroll of revivify (don't need to be a caster to use it)
-
-_Mid Recovery (50-60% strength):_
-
-- Grants stronger boons (significant buffs, resistances)
-- Cast intermediate level magical spells (4-7)
-- Shares knowledge about enemies
-
-_Late Recovery (70-80% strength):_
-
-- Grants powerful boons (major abilities, unique powers)
-- Can intervene remotely in emergencies (sending aid, visions, warnings)
-- Cast high level magical spells (8-9)
-
-**Her Genuine Care:** Throughout this time, Aethera's kindness is completely real. She:
-
-- Celebrates their victories and mourns their losses
-- Offers wisdom and comfort when they struggle
-- Shows genuine interest in their lives and goals
-- Treats them as beloved children she's proud of
-- Wants them to succeed and be happy
-
-She is not deceiving them about her feelings—only about her ultimate purpose. Every moment of warmth is genuine. She truly believes she's preparing them to be strong and fulfilled before the end.
+**The Mutual Agreement:** Aethera proposes a partnership: she will help the party with her knowledge and growing power, and in return, they help her recover her strength and eventually stop Keth'vyss. This is a genuine offer—she truly wants to help them, and she truly needs their help. She is not deceiving them about her feelings—only about her ultimate purpose. Every moment of warmth is genuine. She truly believes she's preparing them to be strong and fulfilled before the end.
 
 ### Act 2: Sending Them to Ionia
 
 By Act 2, Aethera has recovered enough strength to locate Keth'vyss general location. She discovers he's in Ionia and sends the party, claiming Keth'vyss is a dangerous threat opening Void portals. This is partially true—Keth'vyss IS dangerous and IS opening portals. 
 
-### Act 3: The Hunt and Revelation
+### Act 4: The Hunt and Revelation
 
-By Act 3, Aethera has recovered fully (or nearly so). She travels to join the party, claiming she's now strong enough to help them stop Keth'vyss once and for all. The party finally has their powerful celestial ally fighting alongside them. When they find Keth'vyss at his research site (likely ancient Valheru ruins in Shurima), Aethera fights with them against the Darkin. However, at a critical moment—perhaps when Keth'vyss is weakened—she reveals her true purpose and absorbs him, gaining his knowledge and essence.
+By Act 4, Aethera has recovered fully (or nearly so). She travels to join the party, claiming she's now strong enough to help them stop Keth'vyss once and for all. The party finally has their powerful celestial ally fighting alongside them. When they find Keth'vyss at his research site (likely ancient Valheru ruins in Shurima), Aethera fights with them against the Darkin. However, at a critical moment—perhaps when Keth'vyss is weakened—she reveals her true purpose and absorbs him, gaining his knowledge and essence.
 
 **Her Explanation:** After the absorption, if the party confronts her, she might try to explain (depending on their relationship):
 
