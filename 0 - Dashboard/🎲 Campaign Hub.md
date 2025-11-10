@@ -5,7 +5,25 @@
 **Last Session:** [[Session 0]]
 
 ---
+## Campaign Structure Overview
 
+### Act 1: Stonewall & Noxian Politics
+
+**Aethera Power Level:** Imprisoned/Useless → Broken (0-5%) **Focus:** Regional conflict, Guy du Bas-Tyra's coup attempt, party gets Stonewall **Ends With:** Swain's coup, major downtime, Aethera begins manifesting physical form
+
+### Act 2: Ionia & First Hunt
+
+**Aethera Power Level:** Fractured Form (30-40%) **Focus:** Guy's redemption arc, Marduun's transformation, first Keth'vyss encounter **Ends With:** Return to Stonewall, major downtime, Aethera significantly strengthened
+
+### Act 3: Loose Ends & Rising Power
+
+**Aethera Power Level:** Restored Form (60-70%) **Focus:** Severing Hand pursuit, side plots, character development, preparation **Ends With:** Aethera at full strength, party empowered, ready for Keth'vyss hunt
+
+### Act 4: The Hunt & Betrayal
+
+**Aethera Power Level:** Full Power (95%+) **Focus:** Hunt for Keth'vyss, Aethera's betrayal, Lifestone revelation, final confrontation **Ends With:** Campaign conclusion - save or doom Runeterra
+
+---
 ## To Do
 
 
