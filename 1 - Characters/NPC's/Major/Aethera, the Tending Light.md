@@ -89,9 +89,7 @@ The party must help her recover by giving her items of magical power (magical it
 
 By Act 2, Aethera has recovered enough strength to sense Keth'vyss's location and witness the devastation his reckless experiments are causing. His "controlled" portals have spawned Void creatures throughout Ionia, including the terrifying threat of Murmandamus—a corrupted entity capable of destroying entire regions.
 
-She knows how to seal Darkin back into their weapons (a technique taught to mortals by the Aspect of Twilight), and she sends the party with this goal. If they succeed, they should bring him back to her for safekeeping. But more importantly, the suffering must stop. Keth'vyss escaped because Zilean intervened to stop HER—all of this destruction is her fault, and she cannot allow an entire nation to fall because of her actions.
-
-The party is her only option. She prepares them extensively, provides every advantage she can, and sends them with genuine fear for their safety. "Please be careful. He's far more dangerous than you know."
+She teaches the party the **Sealing Rite of Twilight** (a technique to seal the darkin in their weapon taught to mortals by the Aspect of Twilight), and she sends the party with this goal. If they succeed, they should bring him back to her for safekeeping. But more importantly, the suffering must stop. Keth'vyss escaped because Zilean intervened to stop HER—all of this destruction is her fault, and she cannot allow an entire nation to fall because of her actions. The party is her only option. She prepares them extensively, provides every advantage she can, and sends them with genuine fear for their safety. 
 
 The party confronts Keth'vyss at his research site, but he flees rather than fight. They've disrupted his work and stopped the immediate threat, though they failed to seal him. Aethera is profoundly relieved they survived.
 
