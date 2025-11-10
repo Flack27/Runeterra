@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Resources/Runeterra Enemies.md",
+                "file": "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Runeterra Enemies"
+              "title": "Aethera, the Tending Light"
             }
           }
         ],
@@ -387,9 +387,9 @@
   },
   "active": "62ed94cb774cfcaf",
   "lastOpenFiles": [
+    "5 - Resources/Runeterra Enemies.md",
     "2 - Locations/Noxus/Stonewall/Stonewall.md",
     "5 - Resources/Runeterra Magic Items.md",
-    "5 - Resources/Runeterra Enemies.md",
     "5 - Resources/Random NPC ideas.md",
     "5 - Resources/Maps/Quathala.png",
     "4 - Sessions/Session 0.md",

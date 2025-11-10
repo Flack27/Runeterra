@@ -21,7 +21,7 @@ tags:
 
 **The Fall of Icathia:** When Icathia rebelled against Shurima, Aethera watched with growing dread. As tensions escalated and the Icathians made their desperate choice to summon the Void, she descended to stop the catastrophe. She witnessed the people she had nurtured for centuries willingly open a door that should never be opened, summoning oblivion itself. The Ascended warriors who came to stop the breach were driven mad by what they fought. The land was consumed, twisted, corrupted beyond recognition.
 
-Aethera dove into the rift itself to contain it—saving the rest of Runeterra but condemning Icathia to isolation. In doing so, she was directly exposed to the raw essence of the Void. Unlike mortals who break quickly, her Celestial nature resisted the corruption, but could not fully reject it. She succeeded in her mission, but was forever changed.
+Aethera dove into the rift itself to contain it—saving the rest of Runeterra but condemning Icathia to isolation. In doing so, she was directly exposed to the raw essence of the Void. Unlike mortals who break quickly, her Celestial nature resisted the corruption, but could not fully reject it. She succeeded in her mission, but was forever changed. The Void exposure burned away her physical form, forcing her to retreat to the Celestial Realm to recover.
 
 **The Slow Corruption (~3000 years to ~800 years ago):** The Void infection worked slowly through her essence like spiritual poison. She continued her duties, but something fundamental had broken. She couldn't forget Icathia—couldn't stop asking _why_ they had done it. Over the following millennia, she witnessed the pattern repeat:
 
@@ -34,11 +34,11 @@ Each event reinforced the terrible pattern: mortals, when desperate or ambitious
 
 **The Last 800 Years:** By the rise of Noxus, her corruption had deepened to the point where she began searching for a solution. The Lifestone became her answer—a weapon that could end the cycle swiftly and mercifully.
 
-**Her Conclusion:** After centuries of processing trauma and watching the pattern repeat, Aethera reached a devastating conclusion: mortals will _always_ eventually summon catastrophe. It is in their nature to reach beyond their grasp, to open forbidden doors when desperate. She cannot save them from themselves. The kindest thing—the most merciful thing—is to end the cycle before another Icathia, before another Ruination, before the next horror that they will have to suffer.
+**Her Conclusion:** After centuries of processing trauma and watching the pattern repeat, Aethera reached a devastating conclusion: mortals will _always_ eventually summon catastrophe. It is in their nature to reach beyond their grasp, to open forbidden doors when desperate. She cannot save them from themselves. The kindest thing—the most merciful thing—is to end the cycle before another Icathia, before another Ruination, before the next horror that they will have to suffer. The Lifestone became her solution: instant, absolute, painless. No slow corruption, no drawn-out suffering, no time to feel fear. In her corrupted logic, it is the most merciful genocide tool that exists. Better one swift end than endless cycles of horror.
 
-The Lifestone became her solution: instant, absolute, painless. No slow corruption, no drawn-out suffering, no time to feel fear. In her corrupted logic, it is the most merciful genocide tool that exists. Better one swift end than endless cycles of horror.
+**Returning to Runeterra:** To execute her plan, Aethera needed to return to the physical world. Once more, she manifested a physical form—pouring her celestial essence into a new body to walk Runeterra again. This second manifestation required immense power, and she arrived on Runeterra with the full might of a Celestial in mortal form, ready to execute her tragic mercy.
 
-**Current State:** Aethera is approximately 70% corrupted—her personality and love for mortals remain genuine, but her reasoning has been poisoned. She genuinely cares for every human, including the party. She is immensely saddened by what she believes must be done, but sees it as necessary mercy.
+**Current State:** Aethera's personality and love for mortals remain genuine, but her reasoning has been poisoned. She genuinely cares for every human, including the party. She is immensely saddened by what she believes must be done, but sees it as necessary mercy.
 ## Appearance & Mannerisms
 
 - **Age:** Ancient (Celestial)
