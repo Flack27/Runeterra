@@ -66,20 +66,20 @@ Keth'vyss, freed from his prison and now in control of a powerful host body, ope
 
 When the party investigates the shrine after Stonewall's abandonment, they discover Aethera trapped within her protective barrier—weakened, desperate, and genuinely relieved to see mortals who might help her. She explains her situation honestly (with one crucial omission):
 
-**What she tells them:**
+What Happened:
 
-- She is Aethera, a Celestial who came to stop a dangerous Darkin named Keth'vyss
-- Keth'vyss is a mad scholar who opens Void portals recklessly, threatening the region
-- She fought him but was forced to seal herself to survive
-- Keth'vyss fled, leaving her here to die
-- She needs help breaking free from her own barrier and recovering her strength
+- "A dangerous Darkin was sealed here - Keth'vyss, a once scholar who studied portal magic and the Void"
+- "A mortal mage broke Keth'vyss's seal and allowed the Darkin to possess his body"
+- "Perhaps he was a mad scholar seeking forbidden knowledge. Perhaps he thought he could control the power."
+- "I was forced to seal myself to survive. The Darkin fled in the fused body, and the unstable portal was left behind."
 
-**What she doesn't tell them:**
+**Why She Came / Why He's Dangerous:**
 
-- Her true purpose for seeking Keth'vyss (to absorb him for her plan)
-- The Lifestone or her ultimate goal
+- "Keth'vyss studied Void portals before his corruption. Combined with Darkin power and blood magic, he could tear rifts that summon entities capable of consuming entire nations."
+- "Darkin are dangerous weapons of war but Keth'vyss is something worse - a mad scholar with the capability to bring oblivion itself."
+- "I could not allow that knowledge to be unleashed again."
 
-The party must help her recover by giving her items of magical power (magical items / monster parts).Aethera is incredibly weak and needs to rest in the shrine to slowly recover.
+The party must help her recover by giving her items of magical power (magical items / monster parts). Aethera is incredibly weak and needs to rest in the shrine to slowly recover.
 
 ### Deception Phase (Act 1-2)
 

@@ -8,7 +8,6 @@
 - [ ] Get hired for Stonewall investigation
 - [ ] Travel to Stonewall (dangerous roads)
 - [ ] Storm damages Amos's ship
-- [ ] Celesta tries to read minds
 - [ ] Meet Celesta (she plays victim)
 - [ ] Investigate village, find mayor dead
 
