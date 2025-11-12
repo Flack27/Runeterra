@@ -19,3 +19,6 @@ In a world of schemers and betrayers, to remain untouched — to be kind by will
 
 **Someone like Jado Shati from Raymond E Feist series**
 Especially his speech pattern
+
+**Someone like Practical Frost from The First Law**
+Especially with the humor from Gloka's POV in the book
