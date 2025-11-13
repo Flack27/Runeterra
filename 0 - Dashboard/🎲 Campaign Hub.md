@@ -31,6 +31,7 @@
 - Finish dungeon / stonewall enemy encounters
 - Amos dialogue and practice
 - Celestal character sheet dndbeyond
+- Killash hunter in stonewall instead of human?
 
 ---
 ## Next Tasks from Act 1
