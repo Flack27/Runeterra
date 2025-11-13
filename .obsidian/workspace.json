@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Random NPC ideas"
             }
+          },
+          {
+            "id": "4123140a81c0c908",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -385,7 +397,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "62ed94cb774cfcaf",
+  "active": "4123140a81c0c908",
   "lastOpenFiles": [
     "0 - Dashboard/🎲 Campaign Hub.md",
     "0 - Dashboard/Act 4 - Finale.md",
