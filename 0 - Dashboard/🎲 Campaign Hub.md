@@ -30,8 +30,9 @@
 - Fix proper table of random encounters for travel
 - Finish dungeon / stonewall enemy encounters
 - Amos dialogue and practice
-- Celestal character sheet dndbeyond
+- Aethera character sheet dndbeyond
 - Killash hunter in stonewall instead of human?
+- Check Bennar backstory compare to literature
 
 ---
 ## Next Tasks from Act 1
