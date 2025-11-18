@@ -24,3 +24,75 @@ Most of his comrades showed him then why strength was still king. Amdry tried to
 He had wanted to make a statement. He had planned to keep the damage to himself. He had resorted to show them with strength. The battle was already won anyway. The prisoners that could work were being shackled and those that resisted were made ready for execution. Clasven’s face was most priceless of all. Pure fear. They would tell of his death far and wide. Mayhaps even Darkwill would be told of his deed. If it even made a dent in the war machine that was Noxus, it would be worth it. He foresaw a nation built on something better. What he didn’t foresee was the enormity of the explosion he rigged.
 Amdry woke up in a pile of rubble and blood. A giant scar, already healed, ran over his right eye and shrapnel was caught throughout his entire body. It hurt to move and stand up, but he survived. The chime on his neck was glowing a bright gold, which soon faded into an even duller yellow than before. Amdry looked at his fallen comrades and the destruction he left behind. Guilt washed over him. He couldn’t move or look away, no matter how hard he tried. This was his doing. He didn’t know how long he stood there, but eventually the exhaustion got to him. All he wished for was sweet oblivion to wash over him. So he left the site behind and fell asleep in a scorched land under rumbling skies.
 He arose some time later, wet and aching, with even more shame than before. Before him stood a party of concerned individuals that had come to investigate the blast that occurred two days prior. They gave him food and water, a set of clothes, and an escort to the nearby city of Qualthala. Amdry was at a loss for words and so only said little of what he knew. What he did say, was through the identity he had planned to adopt during his first defection. Bennar Weivand was a traveling bard and refugee of the recent Noxian war campaign in Rokrund, who left his home and life behind because he was afraid to arrive back at nothing. He had no home no more, just a road and a fiddle. Any hints of military training he would ascribe to joining rebellious groups against the empire in his youth, none of which had lasted. He had been captured by Captain Corinna Clasven and was made ready for execution when a sudden explosion relieved him of that fate. Luckily the party didn’t ask much further than his name and occupation and said to report to a commanding officer when he reached the city. However, Bennar didn’t do so. He has remained in Qualthala ever since, wallowing in misery and aimlessness. If only he could bring the relief he himself, his comrades and his nation so deeply deserved and required.
+
+
+---
+# Bennar Recovery Guide - TL;DR
+
+## When Recovery Feels EARNED (Literary Principles)
+
+### ❌ INVALID Recovery Triggers (Cheap/Unearned):
+
+- Time passing alone ("It's been 6 months, you're fine")
+- Magic healing that fixes trauma
+- Simple pep talks or external validation
+- Being told "you're forgiven"
+
+### ✅ VALID Recovery Triggers (Satisfying):
+
+**Active Choice Under Pressure** (Kaladin model)
+
+- Must CHOOSE to act despite fear when he could flee
+- Risk something meaningful (life, safety, comfort)
+- Example: Throwing self into danger to protect someone
+
+**Accepting the Unforgivable** (Tyrion model)
+
+- Not "I'm forgiven" but "I did it, it was wrong, I'm here anyway"
+- Strength returns when he stops running FROM guilt, starts running TOWARD purpose
+- Example: Owning what he did to someone who knows the truth
+
+**Finding New Identity** (Jake Barnes model)
+
+- Not restoring Amdry, but accepting Bennar is someone different
+- Recovery = accepting you're different now, not reclaiming what was
+
+**Protecting Successfully** (Kaladin - most relevant)
+
+- Failed to save warband → succeeds in saving others
+- Each successful protection chips away at the wound
+- Example: Successfully shielding Anita/party member
+
+**Cosmic Validation** (Bard Chime)
+
+- Something BIGGER acknowledges the journey matters
+- Chime healing = "Your survival was necessary"
+- Provides HOPE, not instant cure
+
+---
+
+## Suggested Arc Structure
+
+**Phase 1**: Wound is raw, self-loathing prevents trying 
+**Phase 2**: Takes actions DESPITE handicap ("I'm broken but can still act") 
+**Phase 3**: PARTIAL recovery through meaningful choice (one valid trigger above) 
+**Phase 4**: Full recovery only after MULTIPLE accumulated proofs of new purpose
+
+---
+
+## Campaign Integration Notes
+
+- Let player drive the narrative naturally
+- If stuck in self-wallowing, have NPC/party member call him out
+- Don't force single "healing moment" - make it gradual accumulation
+- Final arc isn't restoration, it's transcendence (Meep transformation)
+
+---
+
+## Quick Reference: Literary Parallels
+
+**Jake Barnes** (Sun Also Rises): Learns to exist with wound as part of identity 
+**Kaladin** (Stormlight): Powers return through accepting failure while choosing to act anyway 
+**Tyrion** (ASOIAF): Finds worth through competence in NEW arenas 
+**Frodo** (LOTR): Some wounds become part of you, can't be "fixed" 
+**Toph** (Avatar): Turns perceived weakness into unique strength

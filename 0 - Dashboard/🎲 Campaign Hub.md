@@ -31,8 +31,8 @@
 - Finish dungeon / stonewall enemy encounters
 - Amos dialogue and practice
 - Aethera character sheet dndbeyond
-- Killash hunter in stonewall instead of human?
-- Check Bennar backstory compare to literature
+
+- Satisfying way for healing of Bennar
 
 ---
 ## Next Tasks from Act 1
