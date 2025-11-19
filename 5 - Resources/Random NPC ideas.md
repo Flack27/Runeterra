@@ -22,3 +22,6 @@ Especially his speech pattern
 
 **Someone like Practical Frost from The First Law**
 Especially with the humor from Gloka's POV in the book
+
+**Someone like Logan from The First Law**
+Split personality specifically the bloody nine could be a cool enemy
