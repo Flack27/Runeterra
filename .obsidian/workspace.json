@@ -187,158 +187,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "4fcccb98fa011377",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_9ae9abaa9b48",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 7,
-                    "month": 0,
-                    "year": 989
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 7,
-                    "month": 0,
-                    "year": 989
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": ""
-                },
-                "id": "ID_18d89b6959e9"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "dca9843a5fa7ed31",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_9ae9abaa9b48",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 7,
-                    "month": 1,
-                    "year": 989
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": ""
-                },
-                "id": "ID_a8590af91ba9"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "43114aa841b0e4db",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_9ae9abaa9b48",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 7,
-                    "month": 5,
-                    "year": 989
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": ""
-                },
-                "id": "ID_e94b0afb7939"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "068e02c03c942752",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_9ae9abaa9b48",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 7,
-                    "month": 5,
-                    "year": 989
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": ""
-                },
-                "id": "ID_2a4a8b294b99"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "83f750462bc729ec",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_9ae9abaa9b48",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 10,
-                    "month": 0,
-                    "year": 989
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 7,
-                    "month": 0,
-                    "year": 989
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": ""
-                },
-                "id": "ID_98bb185a5bea",
-                "child": "ID_a908c8ba1979"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "eee0b0b0fa5fd76f",
@@ -398,7 +249,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4123140a81c0c908",
+  "active": "8f0f85aef314a177",
   "lastOpenFiles": [
     "1 - Characters/PC's/Mukai.md",
     "3 - Lore/Mysteries/Severing Hand Dossier.md",

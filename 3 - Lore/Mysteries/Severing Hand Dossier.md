@@ -105,6 +105,26 @@ We are The Severing Hand. We are The Witness. We are one.
 - **Elimination Priority:** MINIMAL - likely eliminated need confirmation
 - **Assessment:** No confirmed sightings for two millennia. Final confrontation dealt catastrophic damage. Either destroyed by Rune Wars magical chaos or damaged beyond reformation capability. Lowest priority. If re-encountered, previous methodologies remain valid.
 
+**7. Ashlesh - "The Demon of Joy"**
+
+- **Emotion:** Joy (Pleasure/Elation)
+- **Last Known Location:** SEALED - ritual binding (987 AN, operational classification: SUCCESS)
+- **Elimination Attempts:** 1 by Self (successful containment)
+- **Results:**
+    - Originally sealed by ancient Ascended in sacred lake (era unknown, seal degrading)
+    - 986 AN: Seal failure detected
+    - 987 AN: Intervention required before full manifestation
+- **Status:** CONTAINED
+    - Power inversion achieved during re-sealing ritual
+    - Demon essence bound to willing mortal host (Nilah of Kathkan)
+    - Demon consciousness status: unknown (dormant or aware within host)
+- **Weaknesses:**
+    - Dependent on host survival
+    - Inverted power may destabilize over time
+    - Host death outcome: uncertain (reformation vs dispersal unknown)
+- **Elimination Priority:** MONITOR - containment appears stable
+- **Assessment:** Experimental containment method. Ancient Ascended seal was failing. Traditional elimination impossible during partial manifestation. Solution: power inversion + living vessel binding. Host volunteered (rare). Three years post-binding: containment stable. Host shows no corruption signs. Demon feeding pattern disrupted - cannot consume joy, only generate it. Possible permanent containment if host longevity maintained. Requires long-term monitoring. If containment fails: immediate elimination of host-demon required. Method potentially replicable for other primordials if suitable hosts identified.
+
 ### SUSPECTED PRIMORDIALS
 
 **Candidate Alpha - "The Burning Fury"**
@@ -116,24 +136,6 @@ We are The Severing Hand. We are The Witness. We are one.
 - **Result:** Confronted during manifestation. Celestial blade contact - entity dispersed immediately. Unclear if destroyed or dispersed. No confirmed sightings for 98 years post-confrontation.
 - **Status:** POSSIBLY ELIMINATED - uncertain
 - **Assessment:** Elimination attempt 891 AN potentially successful. Extended absence suggests True Death or extended reformation period. Pattern analysis indicates primordial-level power. Unpredictable manifestation locations prevent verification. Continue monitoring. If re-appears, primordial status confirmed and previous method ineffective.
-
-**Candidate Beta - "The Golden Crown"**
-
-- **Potential Emotion:** Pride (Hubris/Superiority)
-- **Last Known Location:** Unknown - sealed (673 AN)
-- **Elimination Attempts:** 42 by Witness, 4 by Self
-- **Results:**
-    - 588 AN: Engagement failed, entity escaped
-    - 621 AN: Wounded, temporary dispersal
-    - 658 AN: Major confrontation, significant damage dealt
-    - 673 AN: Successful sealing using Celestial binding ritual
-- **Status:** CONTAINED - seal integrity uncertain
-- **Weaknesses:**
-    - Manifests around peak achievement/hubris
-    - Vulnerable when feeding on victim's pride
-    - Binding ritual partially effective
-- **Elimination Priority:** MONITOR seal integrity
-- **Assessment:** Sealed beneath [LOCATION REDACTED]. Binding ritual required Aspect assistance (Twilight). Seal designed for 500-year duration minimum. Current seal age: 316 years. Integrity checks required. Unknown if entity dormant or active within seal. If seal fails, immediate re-containment or elimination attempt required. Permanent elimination methodology still unknown.
 
 **UNKNOWN PRIMORDIALS (9-10):**
 
