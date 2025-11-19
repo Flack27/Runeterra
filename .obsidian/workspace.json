@@ -214,8 +214,7 @@
                   "displayWeather": true,
                   "location": ""
                 },
-                "id": "ID_18d89b6959e9",
-                "child": "ID_1a19e989e8fa"
+                "id": "ID_18d89b6959e9"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -339,7 +338,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "eee0b0b0fa5fd76f",
@@ -401,12 +400,12 @@
   },
   "active": "4123140a81c0c908",
   "lastOpenFiles": [
-    "1 - Characters/NPC's/Major/The Severing Hand.md",
+    "1 - Characters/PC's/Mukai.md",
     "3 - Lore/Mysteries/Severing Hand Dossier.md",
+    "1 - Characters/NPC's/Major/The Severing Hand.md",
     "0 - Dashboard/🎲 Campaign Hub.md",
     "5 - Resources/Random NPC ideas.md",
     "1 - Characters/PC's/Rha Age - Aph Ahction.md",
-    "1 - Characters/PC's/Mukai.md",
     "1 - Characters/PC's/Marduun.md",
     "1 - Characters/PC's/Bennar Weivand.md",
     "3 - Lore/Mysteries/Ashen-Shugar's Sword and Armor.md",
