@@ -4,32 +4,32 @@ creature-category:
 ---
 Natural animals (wolves, bears, boars, giant creatures)
 
-| Creature                                                                 | CR  | Size   | Environment                        | Behavior    | Role         | Region   | Notes                           |
-| ------------------------------------------------------------------------ | --- | ------ | ---------------------------------- | ----------- | ------------ | -------- | ------------------------------- |
-| [Deer](https://www.dndbeyond.com/monsters/5194966-deer)                  | 0   | Medium | Forest, Grassland                  | Neutral     | Pack         | Any      |                                 |
-| [Goat](https://www.dndbeyond.com/monsters/4775823-goat)                  | 0   | Medium | Grassland, Hill, Mountain          | Neutral     | Pack         | Any      |                                 |
-| [Hyena](https://www.dndbeyond.com/monsters/5195085-hyena)                | 0   | Medium | Desert, Grassland, Hill            | Scavenger   | Pack         | Shurima  |                                 |
-| [Spider](https://www.dndbeyond.com/monsters/4775844-spider)              | 0   | Tiny   | Desert, Forest, Cavern, Urban      | Territorial | Pack, Minion | Any      |                                 |
-| [Antlermouse](https://www.dndbeyond.com/monsters/5195025-giant-rat)      | 1/8 | Small  | Forest, Swamp, Grassland           | Neutral     | Pack         | Any      | Mouse with antlers              |
-| [Boar](https://www.dndbeyond.com/monsters/4775805-boar)                  | 1/4 | Medium | Forest, Grassland, Hill            | Neutral     | Pack         | Any      |                                 |
-| [Tamu](https://www.dndbeyond.com/monsters/4775815-elk)                   | 1/4 | Medium | Mountain, Hill, Grassland          | Neutral     | Pack         | Targon   | White maned brown mammal        |
-| [Scuttle Crab](https://www.dndbeyond.com/monsters/5970343-scuttle-crab)  | 1/4 | Medium | Grassland, Forest, Rivers          | Neutral     | Solo         | Any      |                                 |
-| [Raptor](https://www.dndbeyond.com/monsters/2560950-velociraptor)        | 1/4 | Small  | Grassland, Forest, Hill            | Territorial | Pack, Minion |          | Small birds with large beaks    |
-| [Wolf](https://www.dndbeyond.com/monsters/4775850-wolf)                  | 1/4 | Medium | Grassland, Forest, Hill, Arctic    | Territorial | Pack, Minion | Any      |                                 |
-| [Warhorse](https://www.dndbeyond.com/monsters/4775848-warhorse)          | 1/2 | Large  | Grassland, Forest, Urban           | Neutral     | Solo         | Any      |                                 |
-| [Crimson Raptor](https://www.dndbeyond.com/monsters/2560770-deinonychus) | 1   | Medium | Grassland, Forest, Hill            | Territorial | Pack, Leader |          | Pack leader of group of raptors |
-| [Azurite Eagle](https://www.dndbeyond.com/monsters/5195017-giant-eagle)  | 1   | Large  | Grassland, Hill, Coastal, Mountain | Neutral     | Solo         | Demacia  | Giant azure eagle               |
-| [Murk Wolf](https://www.dndbeyond.com/monsters/4775812-dire-wolf)        | 1   | Medium |                                    |             |              |          |                                 |
-| [Giant Spider](https://www.dndbeyond.com/monsters/4775821-giant-spider)  | 1   | Large  | Desert, Forest, Cavern, Urban      | Territorial | Pack, Leader | Any      |                                 |
-| [Elnuk](https://www.dndbeyond.com/monsters/5195018-giant-elk)            | 2   | Large  | Mountain, Arctic, Grassland, Hill  | Neutral     | Pack         | Freljord | Large shaggy buffalo like       |
-| [Badgerbear](https://www.dndbeyond.com/monsters/5195167-polar-bear)      | 2   | Large  | Grassland, Forest, Hill            | Neutral     | Solo         | Demacia  | Badger + bear                   |
-| [Silverwing](https://www.dndbeyond.com/monsters/5195062-griffon)         | 2   | Large  | Grassland, Hill, Mountain, Urban   | Territorial | Pack         | Demacia  | Silver griffin like creatures   |
-| [Cloud Drinker](https://www.dndbeyond.com/monsters/5195095-killer-whale) | 3   | Huge   | Sky                                | Neutral     | Solo         | Ionia    | Songs that can be heard below   |
-| [Rimefang Wolf](https://www.dndbeyond.com/monsters/5195272-winter-wolf)  | 3   | Large  | Arctic, Hill, Mountain             | Territorial | Pack, Leader | Freljord | Subspecies of wolves            |
-| Greater Murk Wolf                                                        | 3   | Large  |                                    |             |              |          |                                 |
-| [Tuskbeast](https://www.dndbeyond.com/monsters/5195112-mammoth)          | 6   | Huge   | Grassland, Desert                  | Neutral     | Pack         | Any      | Elephant                        |
-| [Grellfeen](https://www.dndbeyond.com/monsters/5195181-remorhaz)         | 11  | Huge   | Arctic, Cavern                     | Territorial | Solo         | Freljord | Large ice worms                 |
-|                                                                          |     |        |                                    |             |              |          |                                 |
+| Creature                                                                          | CR  | Size   | Environment                        | Behavior    | Role         | Region   | Notes                           |
+| --------------------------------------------------------------------------------- | --- | ------ | ---------------------------------- | ----------- | ------------ | -------- | ------------------------------- |
+| [Deer](https://www.dndbeyond.com/monsters/5194966-deer)                           | 0   | Medium | Forest, Grassland                  | Neutral     | Pack         | Any      |                                 |
+| [Goat](https://www.dndbeyond.com/monsters/4775823-goat)                           | 0   | Medium | Grassland, Hill, Mountain          | Neutral     | Pack         | Any      |                                 |
+| [Hyena](https://www.dndbeyond.com/monsters/5195085-hyena)                         | 0   | Medium | Desert, Grassland, Hill            | Scavenger   | Pack         | Shurima  |                                 |
+| [Spider](https://www.dndbeyond.com/monsters/4775844-spider)                       | 0   | Tiny   | Desert, Forest, Cavern, Urban      | Territorial | Pack, Minion | Any      |                                 |
+| [Antlermouse](https://www.dndbeyond.com/monsters/5195025-giant-rat)               | 1/8 | Small  | Forest, Swamp, Grassland           | Neutral     | Pack         | Any      | Mouse with antlers              |
+| [Boar](https://www.dndbeyond.com/monsters/4775805-boar)                           | 1/4 | Medium | Forest, Grassland, Hill            | Neutral     | Pack         | Any      |                                 |
+| [Tamu](https://www.dndbeyond.com/monsters/4775815-elk)                            | 1/4 | Medium | Mountain, Hill, Grassland          | Neutral     | Pack         | Targon   | White maned brown mammal        |
+| [Scuttle Crab](https://www.dndbeyond.com/monsters/5970343-scuttle-crab)           | 1/4 | Medium | Grassland, Forest, Rivers          | Neutral     | Solo         | Any      |                                 |
+| [Raptor](https://www.dndbeyond.com/monsters/2560950-velociraptor)                 | 1/4 | Small  | Grassland, Forest, Hill            | Territorial | Pack, Minion |          | Small birds with large beaks    |
+| [Wolf](https://www.dndbeyond.com/monsters/4775850-wolf)                           | 1/4 | Medium | Grassland, Forest, Hill, Arctic    | Territorial | Pack, Minion | Any      |                                 |
+| [Warhorse](https://www.dndbeyond.com/monsters/4775848-warhorse)                   | 1/2 | Large  | Grassland, Forest, Urban           | Neutral     | Solo         | Any      |                                 |
+| [Crimson Raptor](https://www.dndbeyond.com/monsters/2560770-deinonychus)          | 1   | Medium | Grassland, Forest, Hill            | Territorial | Pack, Leader |          | Pack leader of group of raptors |
+| [Azurite Eagle](https://www.dndbeyond.com/monsters/5195017-giant-eagle)           | 1   | Large  | Grassland, Hill, Coastal, Mountain | Neutral     | Solo         | Demacia  | Giant azure eagle               |
+| [Murk Wolf](https://www.dndbeyond.com/monsters/4775812-dire-wolf)                 | 1   | Medium | Grassland, Hill, Forest            | Territorial | Pack, Minion | Any      |                                 |
+| [Giant Spider](https://www.dndbeyond.com/monsters/4775821-giant-spider)           | 1   | Large  | Desert, Forest, Cavern, Urban      | Territorial | Pack, Leader | Any      |                                 |
+| [Elnuk](https://www.dndbeyond.com/monsters/5195018-giant-elk)                     | 2   | Large  | Mountain, Arctic, Grassland, Hill  | Neutral     | Pack         | Freljord | Large shaggy buffalo like       |
+| [Badgerbear](https://www.dndbeyond.com/monsters/5195167-polar-bear)               | 2   | Large  | Grassland, Forest, Hill            | Neutral     | Solo         | Demacia  | Badger + bear                   |
+| [Silverwing](https://www.dndbeyond.com/monsters/5195062-griffon)                  | 2   | Large  | Grassland, Hill, Mountain, Urban   | Territorial | Pack         | Demacia  | Silver griffin like creatures   |
+| [Cloud Drinker](https://www.dndbeyond.com/monsters/5195095-killer-whale)          | 3   | Huge   | Sky                                | Neutral     | Solo         | Ionia    | Songs that can be heard below   |
+| [Rimefang Wolf](https://www.dndbeyond.com/monsters/5195272-winter-wolf)           | 3   | Large  | Arctic, Hill, Mountain             | Territorial | Pack, Leader | Freljord | Subspecies of wolves            |
+| [Greater Murk Wolf](https://www.dndbeyond.com/monsters/5970775-greater-murk-wolf) | 3   | Large  | Grassland, Hill, Forest            | Territorial | Pack, Leader | Any      | Two headed large wolf           |
+| [Tuskbeast](https://www.dndbeyond.com/monsters/5195112-mammoth)                   | 6   | Huge   | Grassland, Desert                  | Neutral     | Pack         | Any      | Elephant                        |
+| [Grellfeen](https://www.dndbeyond.com/monsters/5195181-remorhaz)                  | 11  | Huge   | Arctic, Cavern                     | Territorial | Solo         | Freljord | Large ice worms                 |
+|                                                                                   |     |        |                                    |             |              |          |                                 |
 ## Behavior Tags
 
 | Tag             | Definition                        | Typical Tactics                                        |
