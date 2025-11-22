@@ -18,7 +18,6 @@ Natural animals (wolves, bears, boars, giant creatures)
 | [Wolf](https://www.dndbeyond.com/monsters/4775850-wolf)                  | 1/4 | Medium | Grassland, Forest, Hill, Arctic    | Territorial | Pack, Minion | Any      |                                 |
 | [Warhorse](https://www.dndbeyond.com/monsters/4775848-warhorse)          | 1/2 | Large  | Grassland, Forest, Urban           | Neutral     | Solo         | Any      |                                 |
 | [Crimson Raptor](https://www.dndbeyond.com/monsters/2560770-deinonychus) | 1   | Medium | Grassland, Forest, Hill            | Territorial | Pack, Leader |          | Pack leader of group of raptors |
-| Noxian War Hound                                                         | 1   |        |                                    |             |              |          |                                 |
 | [Azurite Eagle](https://www.dndbeyond.com/monsters/5195017-giant-eagle)  | 1   | Large  | Grassland, Hill, Coastal, Mountain | Neutral     | Solo         | Demacia  | Giant azure eagle               |
 | [Murk Wolf](https://www.dndbeyond.com/monsters/4775812-dire-wolf)        | 1   | Medium |                                    |             |              |          |                                 |
 | [Giant Spider](https://www.dndbeyond.com/monsters/4775821-giant-spider)  | 1   | Large  | Desert, Forest, Cavern, Urban      | Territorial | Pack, Leader | Any      |                                 |
