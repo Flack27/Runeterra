@@ -11,7 +11,7 @@
 | 13-14                             | War Refugee Camp          | 10-15 displaced people, wounded veterans, quest hooks available                        | Social     |
 | 15-16                             | Deer Herd                 | 2d6 deer grazing. Can hunt for food (Survival DC 12 = 3 days rations)                  | Hunt/Avoid |
 | 17-18                             | Wild Boars                | 1d4 boars rooting for food. Skittish, flee unless cornered                             | Avoid      |
-| 19-20                             | Bird Migration            | Massive flock overhead, beautiful sight. Good omen, +1 morale                          | Watch      |
+| 19-20                             | Bird Migration            | Massive flock overhead, beautiful sight. Good omen.                                    | Watch      |
 | 21-22                             | Fallen Tree               | Large tree blocks path. Clear it (1 hour + Athletics DC 13) or detour (2 hours)        | Obstacle   |
 | 23-24                             | Rockslide Area            | Unstable cliff. Perception DC 14 to notice. Dex Save DC 15 or 2d6 damage               | Hazard     |
 | 25-26                             | Flash Flood               | Heavy rain causes river to swell. Wait 1d4 hours or cross (Athletics DC 16)            | Hazard     |
