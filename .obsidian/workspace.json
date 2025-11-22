@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Resources/Runeterra Enemies.md",
+                "file": "5 - Resources/Additional Resources/Runeterra Magic Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Runeterra Enemies"
+              "title": "Runeterra Magic Items"
             }
           }
         ],
@@ -249,9 +249,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4123140a81c0c908",
+  "active": "c2a12de588d8c091",
   "lastOpenFiles": [
-    "5 - Resources/Random NPC ideas.md",
+    "5 - Resources/Additional Resources/Runeterra Enemies.md",
+    "5 - Resources/Additional Resources/Random NPC ideas.md",
+    "5 - Resources/Untitled.md",
+    "5 - Resources/Additional Resources",
+    "2 - Locations/Noxus/Noxian Wilderness Random Encounter Table.md",
     "0 - Dashboard/🎲 Campaign Hub.md",
     "1 - Characters/NPC's/Major/Zilean.md",
     "5 - Resources/Book References/Ashen-Shugar Revelation.md",
@@ -269,15 +273,11 @@
     "0 - Dashboard/Act 2 - Ionia.md",
     "0 - Dashboard/Act 1 - Stonewall.md",
     "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
-    "5 - Resources/Runeterra Enemies.md",
     "2 - Locations/Noxus/Stonewall/Stonewall.md",
-    "5 - Resources/Runeterra Magic Items.md",
+    "5 - Resources/Additional Resources/Runeterra Magic Items.md",
     "5 - Resources/Maps/Quathala.png",
     "4 - Sessions/Session 0.md",
     "2 - Locations/Noxus/Quathala/Quathala.md",
-    "2 - Locations/Noxus/Quathala/1-2 The Empty Garrison.md",
-    "2 - Locations/Noxus/Immortal Bastion/Ancient Tunnels.md",
-    "2 - Locations/Noxus/Immortal Bastion/Immortal Bastion.md",
     "5 - Resources/Maps/Stonewall/Void Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Rain Stonewall.jpg",
@@ -294,7 +294,6 @@
     "Untitled.base",
     "5 - Resources/Maps/Stonewall.ds.crswap",
     "5 - Resources/Maps/Stonewall.ds",
-    "5 - Resources/Maps/Quathala.png.0.pdnSave",
     "Untitled.canvas"
   ]
 }
