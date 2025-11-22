@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Locations/Noxus/Quathala/10 Duke's Manor.md",
+                "file": "5 - Resources/Creatures/Beasts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 Duke's Manor"
-            }
-          },
-          {
-            "id": "62ed94cb774cfcaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Resources/Random NPC ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Random NPC ideas"
-            }
-          },
-          {
-            "id": "4123140a81c0c908",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Resources/Additional Resources/Runeterra Magic Items.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Runeterra Magic Items"
+              "title": "Beasts"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,8 +220,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c2a12de588d8c091",
+  "active": "729e4e7335bccf4d",
   "lastOpenFiles": [
+    "Deer.md",
+    "5 - Resources/Creatures/Beasts.md",
+    "5 - Resources/Additional Resources/Runeterra Magic Items.md",
+    "5 - Resources/Creatures",
     "5 - Resources/Additional Resources/Runeterra Enemies.md",
     "5 - Resources/Additional Resources/Random NPC ideas.md",
     "5 - Resources/Untitled.md",
@@ -274,10 +249,8 @@
     "0 - Dashboard/Act 1 - Stonewall.md",
     "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
     "2 - Locations/Noxus/Stonewall/Stonewall.md",
-    "5 - Resources/Additional Resources/Runeterra Magic Items.md",
     "5 - Resources/Maps/Quathala.png",
     "4 - Sessions/Session 0.md",
-    "2 - Locations/Noxus/Quathala/Quathala.md",
     "5 - Resources/Maps/Stonewall/Void Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Rain Stonewall.jpg",
@@ -293,7 +266,6 @@
     "Untitled 1.base",
     "Untitled.base",
     "5 - Resources/Maps/Stonewall.ds.crswap",
-    "5 - Resources/Maps/Stonewall.ds",
     "Untitled.canvas"
   ]
 }
