@@ -5,16 +5,17 @@ creature-category:
 
 Natural animals (wolves, bears, boars, giant creatures)
 
-| Creature                                                                | CR  | Size   | Environment               | Behavior  | Role | Region  | Notes         |
-| ----------------------------------------------------------------------- | --- | ------ | ------------------------- | --------- | ---- | ------- | ------------- |
-| [Deer](https://www.dndbeyond.com/monsters/5194966-deer)                 | 0   | Medium | Forest, Grassland         | Neutral   | Pack | Any     | Regular deer  |
-| [Goat](https://www.dndbeyond.com/monsters/4775823-goat)                 | 0   | Medium | Grassland, Hill, Mountain | Neutral   | Pack | Any     | Regular goat  |
-| [Hyena](https://www.dndbeyond.com/monsters/5195085-hyena)               | 0   | Medium | Desert, Grassland, Hill   | Scavenger | Pack | Shurima | Regular Hyena |
-| [Boar](https://www.dndbeyond.com/monsters/4775805-boar)                 | 1/4 | Medium | Forest, Grassland, Hill   | Neutral   | Pack | Any     | Regular Boar  |
-|                                                                         |     |        |                           |           |      |         |               |
-| [Scuttle Crab](https://www.dndbeyond.com/monsters/5970343-scuttle-crab) | 1/4 | Medium | Grassland, Forest, Rivers | Neutral   | Solo | Any     |               |
-| Noxian War Hound                                                        | 1   |        |                           |           |      |         |               |
-|                                                                         |     |        |                           |           |      |         |               |
+| Creature                                                                | CR  | Size   | Environment               | Behavior  | Role | Region  | Notes              |
+| ----------------------------------------------------------------------- | --- | ------ | ------------------------- | --------- | ---- | ------- | ------------------ |
+| [Deer](https://www.dndbeyond.com/monsters/5194966-deer)                 | 0   | Medium | Forest, Grassland         | Neutral   | Pack | Any     |                    |
+| [Goat](https://www.dndbeyond.com/monsters/4775823-goat)                 | 0   | Medium | Grassland, Hill, Mountain | Neutral   | Pack | Any     |                    |
+| [Hyena](https://www.dndbeyond.com/monsters/5195085-hyena)               | 0   | Medium | Desert, Grassland, Hill   | Scavenger | Pack | Shurima |                    |
+| [Antlermouse](https://www.dndbeyond.com/monsters/5195025-giant-rat)     | 1/8 | Small  | Forest, Swamp, Grassland  | Neutral   | Pack | Any     | Mouse with antlers |
+| [Boar](https://www.dndbeyond.com/monsters/4775805-boar)                 | 1/4 | Medium | Forest, Grassland, Hill   | Neutral   | Pack | Any     |                    |
+|                                                                         |     |        |                           |           |      |         |                    |
+| [Scuttle Crab](https://www.dndbeyond.com/monsters/5970343-scuttle-crab) | 1/4 | Medium | Grassland, Forest, Rivers | Neutral   | Solo | Any     |                    |
+| Noxian War Hound                                                        | 1   |        |                           |           |      |         |                    |
+|                                                                         |     |        |                           |           |      |         |                    |
 ## Behavior Tags
 
 | Tag             | Definition                        | Typical Tactics                                        |
