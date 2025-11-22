@@ -55,13 +55,6 @@
 - _Special:_ Shell can be harvested for shields or armor (requires tools)
 - _Loot:_ Scuttle shell (shield material), crab meat (good eating)
 
-**Rift Herald, Lesser** (Void-Touched Beast, CR 3) _Environment: Areas near old Void rifts, corrupted wilderness_ Smaller cousin of the massive Rift Herald. Size of large bear. Chitinous purple carapace, single large eye on back, crab-like claws. Void corruption made it aggressive.
-
-- _Behavior:_ Charges at threats, uses environment for ramming attacks
-- _Combat:_ Powerful charge attack, tough frontal armor, eye on back is weak point
-- _Special:_ Vulnerable to damage from behind (eye), resistant to frontal attacks
-- _Loot:_ Void-touched chitin, Herald eye (magical component)
-
 **Noxian Razorbeak** (Aggressive Avian, CR 1/2) _Environment: Noxian wilderness, forests, hunts in flocks_ Smaller than raptors but more aggressive. Hunt in larger flocks (6-12). Dark feathers, sharp beaks. Fast and annoying.
 
 - _Behavior:_ Swarm tactics, hit-and-run attacks, mob lone targets
