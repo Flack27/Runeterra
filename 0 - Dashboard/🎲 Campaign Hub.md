@@ -26,7 +26,6 @@
 ---
 ## To Do
 
-- Match Zilean story with changes
 - Fix proper table of random encounters for travel
 - Finish dungeon / stonewall enemy encounters
 - Amos dialogue and practice
