@@ -4,9 +4,10 @@ creature-category:
 ---
 Void creatures
 
-| Creature | CR | Size | Environment | Behavior | Role | Region | Notes |
-|----------|----|----|-------------|----------|------|--------|-------|
-| Name | X | Size | Where | How | What | Where | Brief note |
+| Creature                                                                    | CR  | Size  | Environment | Behavior | Role         | Region | Notes |
+| --------------------------------------------------------------------------- | --- | ----- | ----------- | -------- | ------------ | ------ | ----- |
+| [Voidling](https://www.dndbeyond.com/monsters/5974289-voidling)             | 1/4 | Small | Any         | Hunter   | Minion, Pack | Any    |       |
+| [Voidling Swarm](https://www.dndbeyond.com/monsters/5974321-voidling-swarm) | 1   | Small | Any         | Hunter   | Minion, Pack | Any    |       |
 
 ## Behavior Tags
 
