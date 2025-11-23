@@ -15,7 +15,6 @@ Celestial creatures
 | [The Warrior](https://www.dndbeyond.com/monsters/5195165-planetar)                | 16  | Large      | Mountain    | Neutral  | Solo     | Targon | Armored celestial champion                              |
 | [The Immortal Fire](https://www.dndbeyond.com/monsters/2560900-phoenix)           | 16  | Huge       | Mountain    | Neutral  | Solo     | Targon | Living flame celestial representing purification        |
 | [Sphinx of Valor](https://www.dndbeyond.com/monsters/5195213-sphinx-of-valor)     | 17  | Large      | Mountain    | Neutral  | Solo     | Targon |                                                         |
-| [Animal Lord](https://www.dndbeyond.com/monsters/5194892-animal-lord)             | 20  | Medium     | Mountain    | Neutral  | Solo     | Targon |                                                         |
 | [Arbiter of the Peak](https://www.dndbeyond.com/monsters/5195208-solar)           | 21  | Huge       | Mountain    | Neutral  | Solo     | Targon | Judgmental celestial that weighs souls and deeds        |
 | Eclipse Dragon                                                                    |     | Gargantuan | Mountain    | Neutral  | Solo     | Targon | Celestial dragon embodying both sun and moon            |
 | Skies Descend                                                                     |     | Gargantuan | Mountain    | Neutral  | Solo     | Targon | Massive celestial dragon                                |
