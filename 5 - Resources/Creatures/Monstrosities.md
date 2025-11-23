@@ -4,9 +4,9 @@ creature-category:
 ---
 Unnatural but not magical (basilisk, chimera, owlbear, manticore)
 
-| Creature | CR | Size | Environment | Behavior | Role | Region | Notes |
-|----------|----|----|-------------|----------|------|--------|-------|
-| Name | X | Size | Where | How | What | Where | Brief note |
+| Creature | CR  | Size | Environment | Behavior | Role | Region | Notes      |
+| -------- | --- | ---- | ----------- | -------- | ---- | ------ | ---------- |
+| Name     | X   | Size | Where       | How      | What | Where  | Brief note |
 
 ## Behavior Tags
 
