@@ -204,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,13 +222,13 @@
   },
   "active": "729e4e7335bccf4d",
   "lastOpenFiles": [
-    "5 - Resources/Creatures/Celestials.md",
-    "5 - Resources/Creatures/Fey.md",
-    "5 - Resources/Creatures/Humanoids.md",
     "5 - Resources/Creatures/Elementals.md",
     "5 - Resources/Creatures/Dragons.md",
-    "5 - Resources/Creatures/Aberrations.md",
+    "5 - Resources/Creatures/Celestials.md",
     "5 - Resources/Creatures/Beasts.md",
+    "5 - Resources/Creatures/Aberrations.md",
+    "5 - Resources/Creatures/Humanoids.md",
+    "5 - Resources/Creatures/Fey.md",
     "5 - Resources/Creatures/Undead.md",
     "5 - Resources/Creatures/Monstrosities.md",
     "5 - Resources/Creatures/Giants.md",
