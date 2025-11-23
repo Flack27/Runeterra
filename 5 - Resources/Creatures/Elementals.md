@@ -4,9 +4,15 @@ creature-category:
 ---
 Fire/water/earth/air creatures
 
-| Creature | CR | Size | Environment | Behavior | Role | Region | Notes |
-|----------|----|----|-------------|----------|------|--------|-------|
-| Name | X | Size | Where | How | What | Where | Brief note |
+| Creature    | CR  | Size | Environment | Behavior | Role | Region | Notes      |
+| ----------- | --- | ---- | ----------- | -------- | ---- | ------ | ---------- |
+| Krug        | X   | Size | Where       | How      | What | Where  | Brief note |
+| Brambleback |     |      |             |          |      |        |            |
+| Treant      |     |      |             |          |      |        |            |
+| Serpentleaf |     |      |             |          |      |        |            |
+| Luonn Kon   |     |      |             |          |      |        |            |
+| Sentinel    |     |      |             |          |      |        |            |
+|             |     |      |             |          |      |        |            |
 
 ## Behavior Tags
 

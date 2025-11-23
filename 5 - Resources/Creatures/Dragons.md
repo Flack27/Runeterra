@@ -13,7 +13,9 @@ Dragons, drakes, wyverns
 | [Basalisk](https://www.dndbeyond.com/monsters/5195279-young-brass-dragon)                 | 6   | Large      | Desert, Forest          | Territorial | Pack | Shurima Noxus  | No breath attack               |
 | [Ocean Drake](https://www.dndbeyond.com/monsters/5195287-young-white-dragon)              | 6   | Large      | Coastal, Hill, Mountain | Territorial | Boss | Valoran        |                                |
 | [Mountain Drake](https://www.dndbeyond.com/monsters/5195279-young-brass-dragon)           | 6   | Large      | Hill, Mountain          | Territorial | Boss | Valoran        | Force damage                   |
+| [Broodmother](https://www.dndbeyond.com/monsters/5194921-behir)                           | 6   | Huge       | Forest, Hill            | Territorial | Boss | Valoran        | No breath attack, can glide    |
 | [Cloud Drake](https://www.dndbeyond.com/monsters/5195280-young-bronze-dragon)             | 8   | Large      | Hill, Mountain          | Territorial | Boss | Valoran        |                                |
+| [Broodfather](https://www.dndbeyond.com/monsters/5194921-behir)                           | 8   | Huge       | Forest, Hill            | Territorial | Boss | Valoran        | can glide                      |
 | [Infernal Drake](https://www.dndbeyond.com/monsters/5195284-young-red-dragon)             | 10  | Large      | Hill, Mountain          | Territorial | Boss | Valoran        |                                |
 | [Adult Blue Dragon](https://www.dndbeyond.com/monsters/5194870-adult-blue-dragon)         | 16  | Huge       | Any                     | Neutral     | Boss | Any            | Can shapeshift into human form |
 | [Adult Silver Dragon](https://www.dndbeyond.com/monsters/5194876-adult-silver-dragon)     | 16  | Huge       | Any                     | Neutral     | Boss | Any            | Can shapeshift into human form |
