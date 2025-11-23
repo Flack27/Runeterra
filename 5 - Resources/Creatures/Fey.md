@@ -2,11 +2,11 @@
 creature-category:
   - Fey
 ---
-Ionian spirits, fae creatures
+Spirits and demons
 
-| Creature | CR | Size | Environment | Behavior | Role | Region | Notes |
-|----------|----|----|-------------|----------|------|--------|-------|
-| Name | X | Size | Where | How | What | Where | Brief note |
+| Creature | CR  | Size | Environment | Behavior | Role | Region | Notes      |
+| -------- | --- | ---- | ----------- | -------- | ---- | ------ | ---------- |
+| Name     | X   | Size | Where       | How      | What | Where  | Brief note |
 
 ## Behavior Tags
 
