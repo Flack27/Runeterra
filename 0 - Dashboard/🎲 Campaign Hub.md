@@ -26,11 +26,15 @@
 ---
 ## To Do
 
-- Fix proper table of random encounters for travel
+### Next Session
+- Improve table of random encounters for travel
 - Finish dungeon / stonewall enemy encounters
 - Amos dialogue and practice
 - Aethera character sheet dndbeyond
+- Create Adventuring Day for road to stonewall
 
+### Feature
+- Another Adventuring Day for road back to stonewall with Carnage Demon?
 - Satisfying way for healing of Bennar
 
 ---

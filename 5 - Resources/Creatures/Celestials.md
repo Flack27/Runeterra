@@ -4,21 +4,21 @@ creature-category:
 ---
 Celestial creatures
 
-| Creature                                                                          | CR  | Size       | Environment | Behavior | Role     | Region | Notes                                                   |
-| --------------------------------------------------------------------------------- | --- | ---------- | ----------- | -------- | -------- | ------ | ------------------------------------------------------- |
-| [The Serpent](https://www.dndbeyond.com/monsters/5194953-couatl)                  | 4   | Medium     | Mountain    | Neutral  | Solo     | Targon | Cosmic serpent representing wisdom                      |
-| [The Charger](https://www.dndbeyond.com/monsters/5195246-unicorn)                 | 5   | Large      | Mountain    | Neutral  | Solo     | Targon | Ram-horned celestial                                    |
-| [Sphinx of Secrets](https://www.dndbeyond.com/monsters/5195212-sphinx-of-secrets) | 8   | Large      | Mountain    | Neutral  | Solo     | Targon |                                                         |
-| [The Traveler](https://www.dndbeyond.com/monsters/5194968-deva)                   | 10  | Large      | Mountain    | Neutral  | Solo     | Targon | Mysterious hooded wanderer who appears to guide mortals |
-| [Scaled Guardian](https://www.dndbeyond.com/monsters/5195066-guardian-naga)       | 10  | Large      | Mountain    | Neutral  | Guardian | Targon |                                                         |
-| [Sphinx of Lore](https://www.dndbeyond.com/monsters/5195211-sphinx-of-lore)       | 11  | Large      | Mountain    | Neutral  | Solo     | Targon |                                                         |
-| [The Warrior](https://www.dndbeyond.com/monsters/5195165-planetar)                | 16  | Large      | Mountain    | Neutral  | Solo     | Targon | Armored celestial champion                              |
-| [The Immortal Fire](https://www.dndbeyond.com/monsters/2560900-phoenix)           | 16  | Huge       | Mountain    | Neutral  | Solo     | Targon | Living flame celestial representing purification        |
-| [Sphinx of Valor](https://www.dndbeyond.com/monsters/5195213-sphinx-of-valor)     | 17  | Large      | Mountain    | Neutral  | Solo     | Targon |                                                         |
-| [Arbiter of the Peak](https://www.dndbeyond.com/monsters/5195208-solar)           | 21  | Huge       | Mountain    | Neutral  | Solo     | Targon | Judgmental celestial that weighs souls and deeds        |
-| Eclipse Dragon                                                                    |     | Gargantuan | Mountain    | Neutral  | Solo     | Targon | Celestial dragon embodying both sun and moon            |
-| Skies Descend                                                                     |     | Gargantuan | Mountain    | Neutral  | Solo     | Targon | Massive celestial dragon                                |
-| [The Empyrean](https://www.dndbeyond.com/monsters/5194984-empyrean-celestial)     | 23  | Huge       | Mountain    | Neutral  | Solo     | Targon | God-tier celestial entity                               |
+| Creature                                                                           | CR  | Size       | Environment | Behavior | Role     | Region | Notes                                                   |
+| ---------------------------------------------------------------------------------- | --- | ---------- | ----------- | -------- | -------- | ------ | ------------------------------------------------------- |
+| [The Serpent](https://www.dndbeyond.com/monsters/5194953-couatl)                   | 4   | Medium     | Mountain    | Neutral  | Solo     | Targon | Cosmic serpent representing wisdom                      |
+| [The Charger](https://www.dndbeyond.com/monsters/5195246-unicorn)                  | 5   | Large      | Mountain    | Neutral  | Solo     | Targon | Ram-horned celestial                                    |
+| [Sphinx of Secrets](https://www.dndbeyond.com/monsters/5195212-sphinx-of-secrets)  | 8   | Large      | Mountain    | Neutral  | Solo     | Targon |                                                         |
+| [The Traveler](https://www.dndbeyond.com/monsters/5194968-deva)                    | 10  | Large      | Mountain    | Neutral  | Solo     | Targon | Mysterious hooded wanderer who appears to guide mortals |
+| [Scaled Guardian](https://www.dndbeyond.com/monsters/5195066-guardian-naga)        | 10  | Large      | Mountain    | Neutral  | Guardian | Targon |                                                         |
+| [Sphinx of Lore](https://www.dndbeyond.com/monsters/5195211-sphinx-of-lore)        | 11  | Large      | Mountain    | Neutral  | Solo     | Targon |                                                         |
+| [The Warrior](https://www.dndbeyond.com/monsters/5195165-planetar)                 | 16  | Large      | Mountain    | Neutral  | Solo     | Targon | Armored celestial champion                              |
+| [The Immortal Fire](https://www.dndbeyond.com/monsters/2560900-phoenix)            | 16  | Huge       | Mountain    | Neutral  | Solo     | Targon | Living flame celestial representing purification        |
+| [Sphinx of Valor](https://www.dndbeyond.com/monsters/5195213-sphinx-of-valor)      | 17  | Large      | Mountain    | Neutral  | Solo     | Targon |                                                         |
+| [Arbiter of the Peak](https://www.dndbeyond.com/monsters/5195208-solar)            | 21  | Huge       | Mountain    | Neutral  | Solo     | Targon | Judgmental celestial that weighs souls and deeds        |
+| Eclipse Dragon                                                                     |     | Gargantuan | Mountain    | Neutral  | Solo     | Targon | Celestial dragon embodying both sun and moon            |
+| [The Great Beyond](https://www.dndbeyond.com/monsters/5194982-elemental-cataclysm) | 22  | Gargantuan | Mountain    | Neutral  | Solo     | Targon |                                                         |
+| [The Empyrean](https://www.dndbeyond.com/monsters/5194984-empyrean-celestial)      | 23  | Huge       | Mountain    | Neutral  | Solo     | Targon | God-tier celestial entity                               |
 
 ## Behavior Tags
 

@@ -4,23 +4,24 @@ creature-category:
 ---
 Fire/water/earth/air creatures
 
-| Creature                                                                      | CR  | Size   | Environment                | Behavior          | Role         | Region | Notes                                                      |
-| ----------------------------------------------------------------------------- | --- | ------ | -------------------------- | ----------------- | ------------ | ------ | ---------------------------------------------------------- |
-| [Baby Krug](https://www.dndbeyond.com/monsters/5195003-gargoyle)              | 1   | Small  | Any                        | Territorial       | Pack, Minion | Any    | Bludgeoning damage, no flying, half hp, no multiattack     |
-| [Krug](https://www.dndbeyond.com/monsters/5195003-gargoyle)                   | 2   | Medium | Any                        | Territorial       | Pack, Leader | Any    | Bludgeoning damage, no flying, spawns 2 baby krugs if dead |
-| [Water Weird](https://www.dndbeyond.com/monsters/5195262-water-weird)         | 3   | Large  | Coastal, River, Underwater | Territorial       | Solo         | Any    |                                                            |
-| [Sentinel](https://www.dndbeyond.com/monsters/5195072-helmed-horror)          | 4   | Large  | Any                        | Territorial       | Solo         | Any    |                                                            |
-| [Brambleback](https://www.dndbeyond.com/monsters/5195203-shambling-mound)     | 5   | Large  | Forest                     | Territorial       | Solo         | Any    |                                                            |
-| [Air Elemental](https://www.dndbeyond.com/monsters/5194878-air-elemental)     | 5   | Large  | Any                        | Neutral           | Solo         | Any    |                                                            |
-| [Earth Elemental](https://www.dndbeyond.com/monsters/5194980-earth-elemental) | 5   | Large  | Any                        | Neutral           | Solo         | Any    |                                                            |
-| [Water Elemental](https://www.dndbeyond.com/monsters/5195261-water-elemental) | 5   | Large  | Any                        | Neutral           | Solo         | Any    |                                                            |
-| [Fire Elemental](https://www.dndbeyond.com/monsters/4904758-fire-elemental)   | 5   | Large  | Any                        | Neutral           | Solo         | Any    |                                                            |
-| [Treant](https://www.dndbeyond.com/monsters/5195236-treant)                   | 9   | Huge   | Forest                     | Neutral, Guardian | Solo         | Any    |                                                            |
-| [Dao](https://www.dndbeyond.com/monsters/5194958-dao)                         | 11  | Large  | Any                        | Neutral           | Solo         | Any    |                                                            |
-| [Djinni](https://www.dndbeyond.com/monsters/5194971-djinni)                   | 11  | Large  | Any                        | Neutral           | Solo         | Any    |                                                            |
-| [Efreeti](https://www.dndbeyond.com/monsters/5194981-efreeti)                 | 11  | Large  | Any                        | Neutral           | Solo         | Any    |                                                            |
-| [Luonn Kon](https://www.dndbeyond.com/monsters/5195090-iron-golem)            | 16  | Large  | Forest, Hill, Mountain     | Neutral           | Boss         | Ionia  | Giant spirit animals  in the form of massive stone golems  |
-|                                                                               |     |        |                            |                   |              |        |                                                            |
+| Creature                                                                      | CR  | Size       | Environment                | Behavior          | Role         | Region | Notes                                                      |
+| ----------------------------------------------------------------------------- | --- | ---------- | -------------------------- | ----------------- | ------------ | ------ | ---------------------------------------------------------- |
+| [Baby Krug](https://www.dndbeyond.com/monsters/5195003-gargoyle)              | 1   | Small      | Any                        | Territorial       | Pack, Minion | Any    | Bludgeoning damage, no flying, half hp, no multiattack     |
+| [Krug](https://www.dndbeyond.com/monsters/5195003-gargoyle)                   | 2   | Medium     | Any                        | Territorial       | Pack, Leader | Any    | Bludgeoning damage, no flying, spawns 2 baby krugs if dead |
+| [Water Weird](https://www.dndbeyond.com/monsters/5195262-water-weird)         | 3   | Large      | Coastal, River, Underwater | Territorial       | Solo         | Any    |                                                            |
+| [Sentinel](https://www.dndbeyond.com/monsters/5195072-helmed-horror)          | 4   | Large      | Any                        | Territorial       | Solo         | Any    |                                                            |
+| [Brambleback](https://www.dndbeyond.com/monsters/5195203-shambling-mound)     | 5   | Large      | Forest                     | Territorial       | Solo         | Any    |                                                            |
+| [Air Elemental](https://www.dndbeyond.com/monsters/5194878-air-elemental)     | 5   | Large      | Any                        | Neutral           | Solo         | Any    |                                                            |
+| [Earth Elemental](https://www.dndbeyond.com/monsters/5194980-earth-elemental) | 5   | Large      | Any                        | Neutral           | Solo         | Any    |                                                            |
+| [Water Elemental](https://www.dndbeyond.com/monsters/5195261-water-elemental) | 5   | Large      | Any                        | Neutral           | Solo         | Any    |                                                            |
+| [Fire Elemental](https://www.dndbeyond.com/monsters/4904758-fire-elemental)   | 5   | Large      | Any                        | Neutral           | Solo         | Any    |                                                            |
+| [Treant](https://www.dndbeyond.com/monsters/5195236-treant)                   | 9   | Huge       | Forest                     | Neutral, Guardian | Solo         | Any    |                                                            |
+| [Stone Golem](https://www.dndbeyond.com/monsters/4904850-stone-golem)         | 10  | Large      | Any                        | Neutral, Guardian | Solo         | Any    |                                                            |
+| [Dao](https://www.dndbeyond.com/monsters/5194958-dao)                         | 11  | Large      | Any                        | Neutral           | Solo         | Any    |                                                            |
+| [Djinni](https://www.dndbeyond.com/monsters/5194971-djinni)                   | 11  | Large      | Any                        | Neutral           | Solo         | Any    |                                                            |
+| [Efreeti](https://www.dndbeyond.com/monsters/5194981-efreeti)                 | 11  | Large      | Any                        | Neutral           | Solo         | Any    |                                                            |
+| [Luonn Kon](https://www.dndbeyond.com/monsters/5195090-iron-golem)            | 16  | Large      | Forest, Hill, Mountain     | Neutral           | Boss         | Ionia  | Giant spirit animals  in the form of massive stone golems  |
+| [Colossus](https://www.dndbeyond.com/monsters/5194950-colossus)               | 25  | Gargantuan | Any                        | Neutral           | Boss         | Any    |                                                            |
 
 ## Behavior Tags
 
