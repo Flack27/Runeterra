@@ -46,7 +46,6 @@ Each event reinforced the terrible pattern: mortals, when desperate or ambitious
 - **True Form:** Radiant figure of pure light and starfire, but with darkness threading through her essence like veins
 - **Speech Pattern:** Soft, maternal, genuinely kind. Occasionally distant or melancholic when thinking of what she must do
 - **Notable Features:**
-    - Eyes occasionally flicker with Void darkness, quickly suppressed
     - Her presence feels nurturing but with an undercurrent of profound sadness
     - When emotional, the air around her shimmers between warmth and cold
 
