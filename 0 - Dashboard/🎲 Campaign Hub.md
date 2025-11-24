@@ -29,7 +29,6 @@
 ### Next Session
 - Finish dungeon / stonewall enemy encounters
 - Amos dialogue and practice
-- Aethera character sheet dndbeyond
 - Create Adventuring Day for road to stonewall
 
 ### Feature
