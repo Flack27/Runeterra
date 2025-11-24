@@ -49,3 +49,4 @@
 | 98                                | Injured Creature          | Wounded large animal. Unpredictable. Heal (Medicine DC 15) or mercy kill               | Choice     |
 | 99                                | Ancient Ruins             | Small dungeon (1-2 hours). Treasure: 1d4 × 100 GP + minor magic item possible          | Explore    |
 | 00                                | Champion Encounter        | Roll 1d6: 1-2=Draven, 3-4=Samira, 5=Riven, 6=Talon. Varies by champion                 | Varies     |
+
