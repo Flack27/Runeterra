@@ -27,7 +27,6 @@
 ## To Do
 
 ### Next Session
-- Improve table of random encounters for travel
 - Finish dungeon / stonewall enemy encounters
 - Amos dialogue and practice
 - Aethera character sheet dndbeyond
