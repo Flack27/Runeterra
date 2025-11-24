@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Dashboard/🎲 Campaign Hub.md",
+                "file": "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🎲 Campaign Hub"
+              "title": "Aethera, the Tending Light"
             }
           }
         ],
@@ -235,15 +235,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3d1318bb18456a2b",
+  "active": "c2a12de588d8c091",
   "lastOpenFiles": [
+    "5 - Resources/Images/Aethera.jpg",
+    "5 - Resources/Images",
+    "0 - Dashboard/🎲 Campaign Hub.md",
     "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
     "5 - Resources/Additional Resources/Runeterra Magic Items.md",
     "1 - Characters/NPC's/Major/Ashen-Shugar.md",
     "5 - Resources/Additional Resources/Random NPC ideas.md",
     "5 - Resources/Additional Resources/Runeterra Currency.md",
     "5 - Resources/Additional Resources/Runeterra Enemies.md",
-    "0 - Dashboard/🎲 Campaign Hub.md",
     "2 - Locations/Noxus/Noxian Wilderness Random Encounter Table.md",
     "5 - Resources/Creatures/Humanoids.md",
     "5 - Resources/Creatures/Dragons.md",
@@ -265,7 +267,6 @@
     "5 - Resources/Book References/Ashen-Shugar Revelation.md",
     "5 - Resources/Book References/Ashen-Shugar Fusion.md",
     "3 - Lore/Mysteries/Severing Hand Dossier.md",
-    "1 - Characters/PC's/Mukai.md",
     "5 - Resources/Maps/Quathala.png",
     "5 - Resources/Maps/Stonewall/Void Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",
@@ -280,7 +281,6 @@
     "5 - Resources/Maps/Stonewall",
     "2 - Locations/Noxus/Immortal Bastion",
     "Untitled 1.base",
-    "Untitled.base",
     "Untitled.canvas"
   ]
 }

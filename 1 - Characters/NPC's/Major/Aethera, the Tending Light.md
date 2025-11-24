@@ -15,6 +15,7 @@ tags:
   - ashen-shugar-fusion
   - lifestone-plot
 ---
+https://www.dndbeyond.com/monsters/5976955-aethera-the-tending-light
 ## Background
 
 **Who She Was:** Aethera was a Celestial whose sacred duty was to nurture and guide mortal civilizations. As the Tending Light, she watched over emerging societies across Runeterra, helping them through their formative stages—not through direct intervention, but through subtle guidance and cosmic influence. She witnessed the birth of empires, the flowering of cultures, and the endless potential of mortal life. She loved all of humanity equally, without bias or favoritism, seeing each civilization as a precious bloom in the cosmic garden.
