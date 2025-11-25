@@ -25,14 +25,12 @@
             "id": "3d1318bb18456a2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "0 - Dashboard/🎲 Campaign Hub.md",
-                "mode": "source",
-                "source": false
+                "file": "5 - Resources/Maps/Stonewall/Void Stonewall.jpg"
               },
-              "icon": "lucide-file",
-              "title": "🎲 Campaign Hub"
+              "icon": "lucide-image",
+              "title": "Void Stonewall"
             }
           }
         ],
@@ -237,10 +235,13 @@
   },
   "active": "3d1318bb18456a2b",
   "lastOpenFiles": [
+    "5 - Resources/Maps/Stonewall/Stonewall.jpg",
+    "5 - Resources/Maps/Stonewall/Ruined Stonewall.png",
+    "5 - Resources/Maps/Stonewall/Void Stonewall.jpg",
+    "0 - Dashboard/🎲 Campaign Hub.md",
     "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
     "5 - Resources/Images/Aethera.jpg",
     "5 - Resources/Images",
-    "0 - Dashboard/🎲 Campaign Hub.md",
     "5 - Resources/Additional Resources/Runeterra Magic Items.md",
     "1 - Characters/NPC's/Major/Ashen-Shugar.md",
     "5 - Resources/Additional Resources/Random NPC ideas.md",
@@ -268,11 +269,8 @@
     "5 - Resources/Book References/Ashen-Shugar Fusion.md",
     "3 - Lore/Mysteries/Severing Hand Dossier.md",
     "5 - Resources/Maps/Quathala.png",
-    "5 - Resources/Maps/Stonewall/Void Stonewall.jpg",
-    "5 - Resources/Maps/Stonewall/Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Rain Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Autumn Stonewall.jpg",
-    "5 - Resources/Maps/Stonewall/Ruined Stonewall.png",
     "5 - Resources/Maps/Stonewall/Winter Stonewall.jpg",
     "Excalidraw",
     "2 - Locations/Noxus/Stonewall",
