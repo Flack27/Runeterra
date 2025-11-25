@@ -31,6 +31,7 @@
 
 ### Feature
 - Another Adventuring Day for road back to stonewall with Carnage Demon?
+- Tease the severing hand in Ionia with another destroyed monastery
 - Satisfying way for healing of Bennar
 
 ---
