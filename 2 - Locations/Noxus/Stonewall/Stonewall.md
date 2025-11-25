@@ -113,8 +113,6 @@ The shrine was mostly forgotten except by village elders who occasionally left o
 **Old Perrin** - Village Elder
 - Age: 72, Male, Shuriman
 - One of the few who knew about the shrine
-- Too frail for combat but invaluable for information
-- Knows the pass phrase but hasn't visited the shrine in years
 
 **Joren Blackwood** - Young Hunter
 - Age: 19, Male, Noxian
