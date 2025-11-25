@@ -1,12 +1,12 @@
 The dock boards groan under your feet as you approach. The ship burns slowly, flames licking up the mainmast. Smoke churns across the pier in thick coils, carrying the smell of tar and something worse. Bodies lie scattered on the dock planks. Sailors.
 
-Then you hear it—muffled, desperate, coming from the ship itself: "Help! For the love of the Bearded Lady, is someone there? HELP ME!"
+Then you hear it—muffled, desperate, coming from the ship itself: "Hello?! Please tell me you're not more of those purple-blooded horrors! I've had my fill of surprises today!"
 
 The voice comes from the captain's cabin at the stern. The door is barricaded from the outside, jammed shut by a fallen beam that collapsed across it.
 
 If the party gets close enough to see inside through the broken porthole or calls out, Amos responds:
 
-_"The door's jammed—beam fell across it when those bastards hit the rigging! My arm's torn up bad, I can't force it open. There's more of these things out there, I can hear them!"_
+"The door's jammed — beam fell when those things hit the rigging. My arm's torn up bad, can't force it myself. And I can hear more of the bastards out there!"
 
 **Creatures:**
 
@@ -24,17 +24,17 @@ _"The door's jammed—beam fell across it when those bastards hit the rigging! M
 
 **Round 3+:** Remaining Voidlings join the fight. If the party clears them quickly, they can focus on freeing Amos.
 
-**When Amos is Freed:**
+## When Amos is Freed
 
 He stumbles out, cutlass in hand, leaning heavily on the door frame. Then his eyes go wide as he looks past the party at the flames spreading toward the hold.
 
 _"Oh no. No, no, no—we need to move. NOW."_
 
-He grabs the nearest party member's arm.
+[grabs the nearest party member's arm]
 
-_"There's forty barrels of black powder in that hold. If that fire reaches them—"_
+"There's forty barrels of black powder in that hold. Bilgewater's finest. If that fire reaches them, there won't be enough of us left to bury."
 
-**The Explosion:**
+### The Explosion
 
 When it goes (either timed or when fire reaches the hold):
 
@@ -46,19 +46,29 @@ _When your hearing returns, the ship is gone. Just... gone. Burning fragments ra
 
 Anyone still on the dock or within 30 feet takes 4d6 fire damage (DEX save DC 13 for half). Anyone within 60 feet takes 2d6 fire damage (DEX save DC 13 for half).
 
-**After the Encounter:**
+### After the Encounter
 
 Once safe, Amos collapses against whatever support he can find, breathing hard, staring at the burning remains of his ship.
 
 _"Twelve years, that vessel. Took her through the Serpent Isles, past the Vaults of Bilgewater, through three different wars..."_
 
-He looks at the party with hollow eyes.
+[Long pause. Then, quieter]
 
-_"I've seen a lot of ugly things in my years. Monsters in the deep. Pirates who'd gut you for a copper. But those things..."_
+_"Forty-two souls crewed her when we left port. Forty-two."_
 
-He shakes his head.
+[Looks at the party with hollow eyes]
 
-_"What in the hells happened to this place?"_
+_"I've seen a lot of ugly things in my years. Monsters in the deep. Pirates who'd gut you for a copper. Sea serpents that could swallow a longboat whole."_
+
+_(Shakes his head)_
+
+_"But those things... What in the hells happened to this place?"_
+
+**If someone asks who he is:**
+
+_"Captain Amos Trask of the_ **Maiden's Fury** — _though I suppose she's just 'the fire' now. Came out of Bilgewater three weeks back, bound for Nashramae. Storm drove us here. Worst bit of luck I've had since... well, since the last time I said that."_
+
+
 
 **Information Amos Can Provide:**
 

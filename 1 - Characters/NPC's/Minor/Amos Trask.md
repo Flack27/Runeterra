@@ -18,8 +18,8 @@ A pirate captain from Bilgewater, he was en route to Nashramae to sell black pow
 - **Age:** Middle-aged (estimated 40s)
 - **Race:** Human (Bilgewater)
 - **Appearance:** Barrel-chested man with grizzled features, weathered hands from years of rope work, typically dressed in practical sailor's garb
-- **Speech Pattern:** Gruff sailor's vocabulary with colorful maritime expressions, practical and direct
-- **Notable Features:** Shows signs of recent trauma from crew's death and Void encounter, but maintains the steady demeanor of an experienced sea captain
+- **Speech Pattern:** Blunt speech using things like "If I'm any judge..." or "I've Seen..."
+- **Go-to filler words:** "Well..." / "Look..." / "Here's the thing..."
 
 ## Campaign Story
 
