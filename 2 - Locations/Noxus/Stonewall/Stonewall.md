@@ -84,20 +84,13 @@ The shrine was mostly forgotten except by village elders who occasionally left o
 - Essential for reopening mining operations
 - Lost his younger brother in the attack
 
-**Mira Ashwood** - Inn keeper's daughter
-- Age: 23, Female, Noxian
-- Helped her father run The Miner's Rest
-- Father killed in the attack
-- Willing to return if others do, wants to rebuild
-- Has some medical knowledge (helped patch up survivors)
-
 **Henrik Stonewright** - Village Carpenter
 - Age: 38, Male, Noxian
 - Fled with his 12-year-old daughter **Lysa**
 - Wife **Amara** (Shuriman heritage) killed in attack
 - Lysa is slightly darker-skinned, inheriting her mother's coloring
 - Currently grieving and unwilling to return
-- **Personal Quest:** Retrieve Amara's necklace (family heirloom from her Shuriman grandmother) from their home
+- **Personal Quest:** Retrieve Amara's necklace (family heirloom from her Shuriman grandmother) from her
 - Will consider returning only after this is done and if the party asks him directly
 
 **Lysa Stonewright** - Henrik's Daughter
@@ -118,7 +111,6 @@ The shrine was mostly forgotten except by village elders who occasionally left o
 - Age: 19, Male, Noxian
 - Son of the town's lead hunter (killed in attack)
 - Wounded during escape
-- Angry and determined despite injury
 - **Willing to return immediately** - wants revenge
 - Knows the forests around Stonewall well
 - The only surviving member of the town's hunters/protection
