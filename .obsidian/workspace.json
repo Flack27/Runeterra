@@ -41,14 +41,28 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2 - Locations/Noxus/Stonewall/Drawing 2025-11-25 11.08.46.excalidraw.md"
+                "file": "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/🗺️ Stonewall Map.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-25 11.08.46.excalidraw"
+              "title": "🗺️ Stonewall Map"
+            }
+          },
+          {
+            "id": "b09cdec186a2e6cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Resources/Creatures/Aberrations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aberrations"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,10 +262,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3a0010cd18bf7fde",
+  "active": "b09cdec186a2e6cd",
   "lastOpenFiles": [
+    "5 - Resources/Maps/Keth'vyss Temple/Void keth'vyss Temple.jpg",
+    "5 - Resources/Maps/Keth'vyss Temple/Keth'vyss Temple.jpg",
+    "5 - Resources/Maps/Keth'vyss Temple",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/🗺️ Stonewall Map.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon",
+    "2 - Locations/Noxus/Stonewall/Untitled Kanban.md",
+    "2 - Locations/Noxus/Stonewall/Drawing 2025-11-25 11.23.32.excalidraw.md",
     "2 - Locations/Noxus/Stonewall/Stonewall.md",
-    "2 - Locations/Noxus/Stonewall/Drawing 2025-11-25 11.08.46.excalidraw.md",
     "2 - Locations/Noxus/Stonewall/Village Managing system.md",
     "2 - Locations/Noxus/Stonewall/Village Event System.md",
     "Excalidraw/Drawing 2025-11-25 11.01.59.excalidraw.md",
@@ -279,22 +299,16 @@
     "5 - Resources/Creatures/Undead.md",
     "5 - Resources/Creatures/Fey.md",
     "5 - Resources/Creatures/Giants.md",
-    "5 - Resources/Creatures/Constructs.md",
     "5 - Resources/Creatures/Untitled",
-    "Deer.md",
     "5 - Resources/Creatures",
-    "5 - Resources/Untitled.md",
     "5 - Resources/Additional Resources",
     "5 - Resources/Maps/Quathala.png",
     "5 - Resources/Maps/Stonewall/Rain Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Autumn Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Winter Stonewall.jpg",
     "2 - Locations/Noxus/Stonewall",
-    "5 - Resources/Maps/Stonewall/Ruind Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Stonewall Reconstruction.pdn",
     "5 - Resources/Maps/Stonewall",
-    "2 - Locations/Noxus/Immortal Bastion",
-    "Untitled 1.base",
     "Untitled.canvas"
   ]
 }
