@@ -51,14 +51,12 @@
             "id": "b09cdec186a2e6cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/4 - The Miner's Rest.md",
-                "mode": "source",
-                "source": false
+                "file": "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/🗺️ Stonewall Map.md"
               },
-              "icon": "lucide-file",
-              "title": "4 - The Miner's Rest"
+              "icon": "excalidraw-icon",
+              "title": "🗺️ Stonewall Map"
             }
           }
         ],
@@ -264,16 +262,20 @@
   },
   "active": "b09cdec186a2e6cd",
   "lastOpenFiles": [
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/2 - First Sight.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/🗺️ Stonewall Map.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/7 - Shrine Entrance.md",
+    "2 - Locations/Noxus/Stonewall/Keth'vyss Temple",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/6 - Marble Mine Approach.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/5 - Hendrik's House.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/4 - The Miner's Rest.md",
+    "5 - Resources/Creatures/Aberrations.md",
     "2 - Locations/Noxus/Stonewall/Stonewall.md",
     "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/1 - Refugee Camp.md",
-    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/4 - The Miner's Rest.md",
     "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/3 - Docks.md",
-    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/2 - First Sight.md",
     "4 - Sessions/Session Template.md",
     "4 - Sessions/Session 1.md",
     "4 - Sessions/Session 0.md",
-    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/🗺️ Stonewall Map.md",
-    "5 - Resources/Creatures/Aberrations.md",
     "5 - Resources/Creatures/Humanoids.md",
     "2 - Locations/Noxus/Noxian Wilderness Random Encounter Table.md",
     "2 - Locations/Noxus/Stonewall/Village Event System.md",
@@ -299,17 +301,12 @@
     "5 - Resources/Images/Aethera.jpg",
     "5 - Resources/Images",
     "5 - Resources/Additional Resources/Runeterra Magic Items.md",
-    "1 - Characters/NPC's/Major/Ashen-Shugar.md",
-    "5 - Resources/Additional Resources/Runeterra Enemies.md",
-    "5 - Resources/Creatures/Dragons.md",
-    "5 - Resources/Creatures/Monstrosities.md",
     "5 - Resources/Creatures/Untitled",
     "5 - Resources/Creatures",
     "5 - Resources/Additional Resources",
     "5 - Resources/Maps/Quathala.png",
     "2 - Locations/Noxus/Stonewall",
     "5 - Resources/Maps/Stonewall/Stonewall Reconstruction.pdn",
-    "5 - Resources/Maps/Stonewall",
     "Untitled.canvas"
   ]
 }
