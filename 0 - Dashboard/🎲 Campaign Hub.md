@@ -27,7 +27,7 @@
 ## To Do
 
 ### Next Session
-- Finish dungeon / stonewall enemy encounters
+- Finish dungeon encounters
 - Amos dialogue and practice
 - Create Adventuring Day for road to stonewall
 
