@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Resources/Creatures/Humanoids.md",
+                "file": "5 - Resources/Creatures/Aberrations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Humanoids"
+              "title": "Aberrations"
             }
           },
           {
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/3 - Docks.md",
+                "file": "4 - Sessions/Session Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Docks"
+              "title": "Session Template"
             }
           }
         ],
@@ -264,11 +264,15 @@
   },
   "active": "b09cdec186a2e6cd",
   "lastOpenFiles": [
+    "4 - Sessions/Session 1.md",
+    "4 - Sessions/Session 0.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/3 - Docks.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/🗺️ Stonewall Map.md",
+    "5 - Resources/Creatures/Aberrations.md",
+    "5 - Resources/Creatures/Humanoids.md",
     "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/2 - First Sight.md",
     "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/1 - Refugee Camp.md",
-    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/3 - Docks.md",
     "2 - Locations/Noxus/Noxian Wilderness Random Encounter Table.md",
-    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/🗺️ Stonewall Map.md",
     "2 - Locations/Noxus/Stonewall/Stonewall.md",
     "2 - Locations/Noxus/Stonewall/Village Event System.md",
     "5 - Resources/Additional Resources/Runeterra Currency.md",
@@ -276,7 +280,6 @@
     "5 - Resources/Maps/Keth'vyss Temple/Keth'vyss Temple.jpg",
     "5 - Resources/Maps/Stonewall/Rain Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",
-    "5 - Resources/Creatures/Aberrations.md",
     "5 - Resources/Maps/Stonewall/Winter Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Void Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Ruined Stonewall.png",
@@ -296,13 +299,10 @@
     "5 - Resources/Additional Resources/Runeterra Magic Items.md",
     "1 - Characters/NPC's/Major/Ashen-Shugar.md",
     "5 - Resources/Additional Resources/Runeterra Enemies.md",
-    "5 - Resources/Creatures/Humanoids.md",
     "5 - Resources/Creatures/Dragons.md",
     "5 - Resources/Creatures/Monstrosities.md",
     "5 - Resources/Creatures/Elementals.md",
     "5 - Resources/Creatures/Celestials.md",
-    "5 - Resources/Creatures/Beasts.md",
-    "5 - Resources/Creatures/Undead.md",
     "5 - Resources/Creatures/Untitled",
     "5 - Resources/Creatures",
     "5 - Resources/Additional Resources",
