@@ -64,20 +64,7 @@ Keth'vyss, freed from his prison and now in control of a powerful host body, ope
 
 ### First Encounter (Session 1)
 
-When the party investigates the shrine after Stonewall's abandonment, they discover Aethera trapped within her protective barrier—weakened, desperate, and genuinely relieved to see mortals who might help her. She explains her situation honestly (with one crucial omission):
-
-What Happened:
-
-- "A dangerous Darkin was sealed here - Keth'vyss, a once scholar who studied portal magic and the Void"
-- "A mortal mage broke Keth'vyss's seal and allowed the Darkin to possess his body"
-- "Perhaps he was a mad scholar seeking forbidden knowledge. Perhaps he thought he could control the power."
-- "I was forced to seal myself to survive. The Darkin fled in the fused body, and the unstable portal was left behind."
-
-**Why She Came / Why He's Dangerous:**
-
-- "Keth'vyss studied Void portals before his corruption. Combined with Darkin power and blood magic, he could tear rifts that summon entities capable of consuming entire nations."
-- "Darkin are dangerous weapons of war but Keth'vyss is something worse - a mad scholar with the capability to bring oblivion itself."
-- "I could not allow that knowledge to be unleashed again."
+When the party investigates the shrine after Stonewall's abandonment, they discover Aethera trapped within her protective barrier—weakened, desperate, and genuinely relieved to see mortals who might help her. She explains her situation honestly (with one crucial omission).
 
 The party must help her recover by giving her items of magical power (magical items / monster parts). Aethera is incredibly weak and needs to rest in the shrine to slowly recover.
 
