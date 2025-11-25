@@ -21,11 +21,9 @@ tags:
 
 Keth'vyss was once a brilliant Ascended scholar of Shurima, specialized in portal magic and Valheru technology. He was obsessed with understanding interdimensional travel and studied ancient Valheru ruins extensively. When Icathia fell and the Void War began (~3000 years ago), he fought alongside the other Ascended. However, the horrors he witnessed—combined with his deep exposure to Void energies during the war—began to corrupt his mind.
 
-Unlike most Ascended who descended into complete madness and became warlords during the Darkin War, Keth'vyss retained enough sanity to recognize what was happening to him. As the blood magic corruption spread through the Ascended ranks, he retreated to one of his research temples in what would later become Stonewall. There, isolated from the war, he resumed his studies with his "newfound knowledge"—the twisted insights the Void corruption had given him.
+Unlike most Ascended who descended into complete madness and became warlords during the Darkin War, Keth'vyss retained enough sanity to recognize what was happening to him. As the blood magic corruption spread through the Ascended ranks, he retreated to one of his research temples in what would later become Stonewall. There, isolated from the war, he resumed his studies slowly losing himself to madness, however before he lost himself completely he was sealed by the Aspect of Twilight.
 
-Over centuries in isolation, his madness deepened. He convinced himself that he could master portal magic to defend Runeterra from the Void by understanding it completely. His research became increasingly dangerous as he opened small rifts "for study".
-
-Eventually, he was sealed by the Aspect of Twilight (or a mortal wielding Twilight's knowledge) into his staff, imprisoned in the temple that would become the shrine beneath Stonewall. There he remained for over two thousand years until recent events.
+Over centuries in isolation within his weapon, his madness deepened. He convinced himself that he could master portal magic to defend Runeterra from the Void by understanding it completely if he were ever freed.
 
 ## Appearance & Mannerisms
 
