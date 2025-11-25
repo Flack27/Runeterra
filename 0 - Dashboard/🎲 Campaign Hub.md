@@ -27,7 +27,7 @@
 ## To Do
 
 ### Next Session
-- Finish dungeon encounters
+- Aethera dialogue ready
 - Amos dialogue and practice
 - Create Adventuring Day for road to stonewall
 
