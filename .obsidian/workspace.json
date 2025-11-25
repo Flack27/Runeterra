@@ -25,16 +25,30 @@
             "id": "3d1318bb18456a2b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "5 - Resources/Maps/Stonewall/Void Stonewall.jpg"
+                "file": "2 - Locations/Noxus/Stonewall/Stonewall.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Void Stonewall"
+              "icon": "lucide-file",
+              "title": "Stonewall"
+            }
+          },
+          {
+            "id": "3a0010cd18bf7fde",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2 - Locations/Noxus/Stonewall/Drawing 2025-11-25 11.08.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-25 11.08.46.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,15 +244,22 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3d1318bb18456a2b",
+  "active": "3a0010cd18bf7fde",
   "lastOpenFiles": [
+    "2 - Locations/Noxus/Stonewall/Stonewall.md",
+    "2 - Locations/Noxus/Stonewall/Drawing 2025-11-25 11.08.46.excalidraw.md",
+    "2 - Locations/Noxus/Stonewall/Village Managing system.md",
+    "2 - Locations/Noxus/Stonewall/Village Event System.md",
+    "Excalidraw/Drawing 2025-11-25 11.01.59.excalidraw.md",
+    "Excalidraw",
+    "0 - Dashboard/🎲 Campaign Hub.md",
+    "5 - Resources/Maps/Stonewall/Void Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Ruined Stonewall.png",
-    "5 - Resources/Maps/Stonewall/Void Stonewall.jpg",
-    "0 - Dashboard/🎲 Campaign Hub.md",
     "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
     "5 - Resources/Images/Aethera.jpg",
     "5 - Resources/Images",
@@ -264,15 +285,10 @@
     "5 - Resources/Creatures",
     "5 - Resources/Untitled.md",
     "5 - Resources/Additional Resources",
-    "1 - Characters/NPC's/Major/Zilean.md",
-    "5 - Resources/Book References/Ashen-Shugar Revelation.md",
-    "5 - Resources/Book References/Ashen-Shugar Fusion.md",
-    "3 - Lore/Mysteries/Severing Hand Dossier.md",
     "5 - Resources/Maps/Quathala.png",
     "5 - Resources/Maps/Stonewall/Rain Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Autumn Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Winter Stonewall.jpg",
-    "Excalidraw",
     "2 - Locations/Noxus/Stonewall",
     "5 - Resources/Maps/Stonewall/Ruind Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Stonewall Reconstruction.pdn",
