@@ -167,3 +167,60 @@ His whole manner changes - becomes focused, almost childlike in his interest.
 
 ## SCENE 2: Adventuring Day
 
+### ENCOUNTER 1: The Survivors (Mid-Morning, Day 3 or 4)
+
+Around a bend in the mountain road, five figures stumble into view, moving toward Quathala. They're filthy, exhausted, and one man is limping badly with bloody claw marks torn through his leg. A woman carries a crying child.
+
+**The Group:**
+
+- **Goram** (50s, miner) - leg wound, losing blood
+- **Dessa** (30s, farmer's wife) - carrying young son (5 years old)
+- **Petyr** (20s, blacksmith's apprentice) - uninjured but shaken
+- **Old Maris** (60s, weaver) - exhausted, barely standing
+- Young boy **Jem** (5) - Dessa's son, terrified
+
+They left Stonewall 5-6 days ago, part of a group that couldn't wait for help. Made slow progress. Camped last night in what seemed like a safe clearing off the road.
+
+**What They Know:**
+
+- "Monsters came at dawn. Screaming, claws everywhere. Rella and Old Toben—they didn't make it."
+- "We ran. Kept running. Don't know if those things are still following."
+- **About Stonewall:** "There's a camp. Hour north of the village. Maybe fifteen people still there—too scared or too weak to leave. We tried to convince them..."
+- Goram needs medical attention (DC 12 Medicine check to stabilize, or he'll worsen)
+
+**Their campsite is about 2 hours back down the road** - they've been walking since dawn.
+
+Party can give them food/water/supplies to help them reach Quathala, or leave them to their fate.
+
+---
+
+### ENCOUNTER 2: The Nest (2 Hours Later, Early Afternoon)
+
+Following the refugees' directions or simple backtracking, you find where they camped. The clearing lies about 200 feet off the main road, hidden by dense trees.
+
+**What's Obvious:**
+
+- Bloody scene in a small clearing
+- Two bodies, badly mauled
+- Scattered supplies and belongings
+- Scorch marks and claw tracks everywhere
+- The smell of blood and something else—musky, reptilian
+
+**The Raptors:**
+
+- **3 Raptors** lounging near the bodies, one still feeding
+- **1 Crimson Raptor** (larger, alpha) perched on a rock near the nest
+- They notice the party at 60 feet
+- Crimson Raptor screeches warning; pack goes alert
+
+**DC 13 Perception Check (or Passive Perception 13):**
+
+- Spots the nest tucked against the rocks 40 feet from the campsite
+- Six large eggs, pale blue with red veining
+- This wasn't random hunting—this was territorial defense
+
+**Recoverable:**
+
+- Refugees' supplies: 2 days rations, waterskins, rope, 8 GP
+- Bodies can be buried (refugees would appreciate this if party mentions it later)
+- Raptor eggs (6 total) - worth 25 GP each in the right market, or could be hatched
