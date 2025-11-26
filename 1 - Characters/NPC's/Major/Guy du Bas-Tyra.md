@@ -51,7 +51,7 @@ Guy becomes refugee in Ionia, begins his redemption arc
 
 **Phase 1 - Seizing the Opportunity:**
 - Rockrund rebellion provides chance to demonstrate leadership
-- Quathala's instability (undermanned garrison, weak baron) allows him to "stabilize" the region
+- Quathala's instability (undermanned garrison, weak duke) allows him to "stabilize" the region
 - NOT about specific territories - about showing he can lead where Darkwill cannot
 - Demonstrates strength and competence while Grand General is absent in Ionia
 

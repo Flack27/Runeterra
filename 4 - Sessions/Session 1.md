@@ -164,3 +164,6 @@ His whole manner changes - becomes focused, almost childlike in his interest.
 
 > **MATTHIAS:** "The Duke expects results. Find out what has become of the villagers and how many survived. determine what happened to the village, and secure the marble mine if possible. Any questions?"
 
+
+## SCENE 2: Adventuring Day
+

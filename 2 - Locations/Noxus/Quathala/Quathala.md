@@ -43,6 +43,3 @@ SORT importance DESC
 - No protection for merchant caravans or travelers
 - Neighbors organizing watch groups since guards are gone
 
----
-
-_This overview links to detailed location files for specific areas and NPCs within Quathala_
