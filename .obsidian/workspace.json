@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
+                "file": "0 - Dashboard/🎲 Campaign Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aethera, the Tending Light"
-            }
-          },
-          {
-            "id": "77e34a9e73a48269",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "title": "🎲 Campaign Hub"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,6 +172,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_9ae9abaa9b48",
                 "id": "ID_a908c8ba1979",
                 "parent": "ID_98bb185a5bea"
               },
@@ -204,6 +192,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_9ae9abaa9b48",
                 "id": "ID_1a19e989e8fa",
                 "parent": "ID_18d89b6959e9"
               },
@@ -232,13 +221,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "77e34a9e73a48269",
+  "active": "729e4e7335bccf4d",
   "lastOpenFiles": [
+    "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
     "5 - Resources/Additional Resources/Runeterra Currency.md",
     "2 - Locations/Noxus/Quathala/Bounty Board.md",
     "5 - Resources/Creatures/Fey.md",
     "1 - Characters/NPC's/Major/Guy du Bas-Tyra.md",
-    "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
     "0 - Dashboard/🎲 Campaign Hub.md",
     "0 - Dashboard/Act 1 - Stonewall.md",
     "1 - Characters/NPC's/Supporting/Roderick Voss.md",

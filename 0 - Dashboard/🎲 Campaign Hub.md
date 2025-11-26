@@ -28,6 +28,7 @@
 
 ### Next Session
 - Create Adventuring Day for road to stonewall
+- Combat Maps
 
 ### Feature
 - Another Adventuring Day for road back to stonewall with Carnage Demon?
