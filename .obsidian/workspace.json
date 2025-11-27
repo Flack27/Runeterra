@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f7cbf5f87b9bdebb",
+        "id": "05c7a7e8f254b4cb",
         "type": "tabs",
         "children": [
           {
-            "id": "729e4e7335bccf4d",
+            "id": "c2cf542ae84a80d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Sessions/Session 0.md",
+                "file": "2 - Locations/Noxus/Quathala/Quathala.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "Quathala"
             }
           }
         ]
@@ -221,11 +221,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "729e4e7335bccf4d",
+  "active": "c2cf542ae84a80d3",
   "lastOpenFiles": [
+    "5 - Resources/Maps/Quathala/Quathala.png",
+    "2 - Locations/Noxus/Quathala/Quathala.md",
     "1 - Characters/PC's/Rha Age - Aph Ahction.md",
+    "1 - Characters/PC's/Bennar Weivand.md",
     "1 - Characters/PC's/Marduun.md",
     "1 - Characters/PC's/Mukai.md",
+    "2 - Locations/Noxus/Quathala/1-2 The Empty Garrison.md",
+    "2 - Locations/Noxus/Immortal Bastion/Ancient Tunnels.md",
+    "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/🗺️ Temple Map.md",
     "4 - Sessions/Session 0.md",
     "0 - Dashboard/🎲 Campaign Hub.md",
     "4 - Sessions/Session 1.md",
@@ -234,7 +240,6 @@
     "5 - Resources/Additional Resources/Runeterra Distances.md",
     "5 - Resources/Maps/Quathala/Quathala Night.png",
     "5 - Resources/Maps/Quathala/Quathala Night.png.0.pdnSave",
-    "5 - Resources/Maps/Quathala/Quathala.png",
     "5 - Resources/Maps/Quathala/Quathala.png.0.pdnSave",
     "5 - Resources/Maps/Quathala",
     "5 - Resources/Maps/New folder",
@@ -248,13 +253,7 @@
     "0 - Dashboard/Act 1 - Stonewall.md",
     "1 - Characters/NPC's/Supporting/Roderick Voss.md",
     "2 - Locations/Noxus/Quathala/10 Duke's Manor.md",
-    "2 - Locations/Noxus/Quathala/Quathala.md",
     "2 - Locations/Noxus/Quathala/9 The Crafter's Quarter.md",
-    "2 - Locations/Noxus/Quathala/8 The Marble Quarter.md",
-    "2 - Locations/Noxus/Quathala/7 The marble Griffin.md",
-    "2 - Locations/Noxus/Quathala/6 The Old Market.md",
-    "2 - Locations/Noxus/Quathala/5 Pops Tavern.md",
-    "2 - Locations/Noxus/Quathala/4 Arcane Curiosities.md",
     "5 - Resources/Maps/Quathala.png",
     "5 - Resources/Maps/Stonewall/Ruined Stonewall.png",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",

@@ -30,7 +30,7 @@ SORT importance DESC
 
 **General Topics:**
 
-- Baron Roderick's mental state and erratic behavior
+- Duke Roderick's mental state and erratic behavior
 - The dismissed commandant and garrison abandonment
 - The expensive beautification projects bankrupting the city
 
