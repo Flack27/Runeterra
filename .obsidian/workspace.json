@@ -172,7 +172,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_9ae9abaa9b48",
                 "id": "ID_a908c8ba1979",
                 "parent": "ID_98bb185a5bea"
               },
@@ -192,7 +191,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_9ae9abaa9b48",
                 "id": "ID_1a19e989e8fa",
                 "parent": "ID_18d89b6959e9"
               },
