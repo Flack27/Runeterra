@@ -49,9 +49,8 @@ Drinking a potion is a **Bonus Action**
 
 **Please maintain clear distinction:**
 
-- Use different voices/accents for characters (if comfortable)?
-- Speak in English when in-character?
-- Use normal voice/Dutch for out-of-character discussion?
+- Speak in English when in-character
+- Use Dutch for out-of-character discussion
 - Minimize table talk during intense roleplay/combat
 
 ### Combat Roleplay

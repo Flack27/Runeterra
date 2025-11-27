@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Dashboard/🎲 Campaign Hub.md",
+                "file": "4 - Sessions/Session 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🎲 Campaign Hub"
+              "title": "Session 0"
             }
           }
         ]
@@ -172,6 +172,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_9ae9abaa9b48",
                 "id": "ID_a908c8ba1979",
                 "parent": "ID_98bb185a5bea"
               },
@@ -191,6 +192,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_9ae9abaa9b48",
                 "id": "ID_1a19e989e8fa",
                 "parent": "ID_18d89b6959e9"
               },
@@ -221,6 +223,11 @@
   },
   "active": "729e4e7335bccf4d",
   "lastOpenFiles": [
+    "1 - Characters/PC's/Rha Age - Aph Ahction.md",
+    "1 - Characters/PC's/Marduun.md",
+    "1 - Characters/PC's/Mukai.md",
+    "4 - Sessions/Session 0.md",
+    "0 - Dashboard/🎲 Campaign Hub.md",
     "4 - Sessions/Session 1.md",
     "5 - Resources/Creatures/Monstrosities.md",
     "5 - Resources/Creatures/Beasts.md",
@@ -233,7 +240,6 @@
     "5 - Resources/Maps/New folder",
     "2 - Locations/Noxus/Stonewall/Village Managing system.md",
     "2 - Locations/Noxus/Stonewall/Village Event System.md",
-    "0 - Dashboard/🎲 Campaign Hub.md",
     "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
     "5 - Resources/Additional Resources/Runeterra Currency.md",
     "2 - Locations/Noxus/Quathala/Bounty Board.md",
@@ -249,10 +255,6 @@
     "2 - Locations/Noxus/Quathala/6 The Old Market.md",
     "2 - Locations/Noxus/Quathala/5 Pops Tavern.md",
     "2 - Locations/Noxus/Quathala/4 Arcane Curiosities.md",
-    "2 - Locations/Noxus/Quathala/3 The Northern Crown.md",
-    "2 - Locations/Noxus/Quathala/1-2 The Empty Garrison.md",
-    "2 - Locations/Noxus/Noxian Wilderness Random Encounter Table.md",
-    "Duke's Manor.md",
     "5 - Resources/Maps/Quathala.png",
     "5 - Resources/Maps/Stonewall/Ruined Stonewall.png",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",
