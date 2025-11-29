@@ -26,5 +26,5 @@ Especially with the humor from Gloka's POV in the book
 **Someone like Logan from The First Law**
 Split personality specifically the bloody nine could be a cool enemy
 
-**Quote for someone**
+**Quote for someone from first law**
 "When you're master gives you a task you do your best at it even if the task is a dark one, and some of us are only suited for dark tasks"
