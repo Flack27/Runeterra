@@ -1,9 +1,6 @@
 **Introduction:** NPC that does something quite outrageous, hindering someone / something important in order to pick up a coin. The party will see this commotion happening, he will pick up the coin and go into the bar next to them to buy beer with it.
 
 
-**Someone like Practical Frost from The First Law**
-Especially with the humor from Gloka's POV in the book
-
 **Someone like Logan from The First Law**
 Split personality specifically the bloody nine could be a cool enemy
 
