@@ -27,7 +27,6 @@
 ## To Do
 
 ### Next Session
-- Aethera hinting like done in First Law with bayaz
 - Demon whispers like when ferro touches the seed
 ### Feature
 - Another Adventuring Day for road back to stonewall with Carnage Demon?
