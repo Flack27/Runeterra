@@ -6,6 +6,10 @@
 
 ## Scenes
 
+## SCENE: Return to Quathala
+
+Well, if I'm any judge, we're all still breathing and that calls for ale. The dead deserve a drink in their honor, and the living deserve one for not joining them. I know a thing or two about both.
+
 ## SCENE: Return to the Duke's Manor
 
 ---

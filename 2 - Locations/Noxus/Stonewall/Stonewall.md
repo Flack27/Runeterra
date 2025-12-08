@@ -68,11 +68,6 @@ Hidden in the forest west of the river, accessible by an overgrown path. An anci
 
 The shrine was mostly forgotten except by village elders who occasionally left offerings. Inside, a passage leads deep into the mountain - the same passages the Void creatures used to reach the surface. The shrine entrance is sealed and can only be opened by speaking the pass phrase: **"Nehg-moh-lee"** (Ancient Shuriman ).
 
-**Current Void Corruption**
-- Dark energy pulses from the sealed shrine
-- The corruption spreads slowly but steadily
-- Village center heavily affected, outer areas less so
-
 ## Survivors
 
 **In Quathala (5-6 people):**
