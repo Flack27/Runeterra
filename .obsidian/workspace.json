@@ -11,12 +11,14 @@
             "id": "c2cf542ae84a80d3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "5 - Resources/Maps/Quathala/Quathala.png"
+                "file": "0 - Dashboard/🎲 Campaign Hub.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Quathala"
+              "icon": "lucide-file",
+              "title": "🎲 Campaign Hub"
             }
           }
         ]
@@ -219,14 +221,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c2a12de588d8c091",
+  "active": "c2cf542ae84a80d3",
   "lastOpenFiles": [
+    "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/8. Sanctum.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/7 - Shrine Entrance.md",
+    "4 - Sessions/Session 1.md",
+    "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
+    "1 - Characters/NPC's/Major/The Severing Hand.md",
+    "5 - Resources/Maps/Quathala/Quathala.png",
     "1 - Characters/PC's/Mukai.md",
     "1 - Characters/PC's/Marduun.md",
     "3 - Lore/Mysteries/The Forbidden Arts.md",
     "3 - Lore/Mysteries/Ashen-Shugar's Sword and Armor.md",
     "0 - Dashboard/🎲 Campaign Hub.md",
-    "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
     "5 - Resources/Creatures/Beasts.md",
     "5 - Resources/Creatures/Celestials.md",
     "5 - Resources/Creatures/Aberrations.md",
@@ -243,11 +250,6 @@
     "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/5. Prayer Chamber.md",
     "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/5 - Hendrik's House.md",
     "0 - Dashboard/Act 4 - Finale.md",
-    "1 - Characters/NPC's/Major/Swain.md",
-    "0 - Dashboard/Act 3 - Truth.md",
-    "0 - Dashboard/Act 2 - Ionia.md",
-    "0 - Dashboard/Act 1 - Stonewall.md",
-    "5 - Resources/Maps/Quathala/Quathala.png",
     "5 - Resources/Maps/Quathala/Quathala Night.png",
     "5 - Resources/Maps/Quathala/Quathala Night.png.0.pdnSave",
     "5 - Resources/Maps/Quathala/Quathala.png.0.pdnSave",
