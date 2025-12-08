@@ -50,9 +50,9 @@ _Turns to face them with genuine enthusiasm._
 
 > **RODERICK:** "Why not? They show competence why wouldn't that translate? You've already cleared the threat. They know the village, the mine, the surrounding area. Who better to rebuild it than those who saved it?"
 
-> **MATTHIAS:** "But lord..."
+*Mathias barely hides his contempt*
 
-> **RODERICK:** "That's enough Matthias, go draw up the documents"
+> **MATTHIAS:** "Of course my lord"
 
 ---
 
@@ -62,7 +62,7 @@ _Turns to face them with genuine enthusiasm._
 
 > **RODERICK:** _genuinely confused_ "But this IS better than gold. Land! Your own domain! Do you know how many soldiers serve their entire lives hoping to earn a grant like this?"
 
-> **MATTHIAS:** "Perhaps they don't understand the value of what you're offering, my lord. A destroyed village might seem... less appealing than coin in hand."
+> **MATTHIAS:** "They don't seem to understand the value of what you're offering, my lord. A destroyed village might seem... less appealing than coin in hand for the simpler folk."
 
 > **RODERICK:** _frowning_ "It won't stay destroyed. That's the point. They rebuild it, it becomes theirs. In five years, ten years, they'll have something real."
 
@@ -72,11 +72,11 @@ _Turns to face them with genuine enthusiasm._
 
 > **RODERICK:** _looking to Matthias_ "We could... add a small stipend? To help with initial expenses?"
 
-> **MATTHIAS:** _thin-lipped_ "The treasury is already strained by the beautification project, my lord. Perhaps... fifty gold? As a gesture of goodwill?"
+> **MATTHIAS:** _thin-lipped_ "The treasury is already strained by the beautification project, my lord. Perhaps... 200 gold? As a gesture of goodwill?"
 
 _This is less than they were likely promised but Roderick nods eagerly._
 
-> **RODERICK:** "Fifty gold AND the village. That's more than fair. More than generous, really."
+> **RODERICK:** "200 gold AND the village. That's more than fair. More than generous, really."
 
 ---
 
