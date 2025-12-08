@@ -1,19 +1,11 @@
-# Session [Number]: [Title]
-
 **Date:** [Real Date]
 **In-Game Date:** 
-**Location:** [[Primary Location]]
 
 ## Quick Summary
 [One sentence recap]
 
-## Key Events
-- Event 1
-- Event 2
-- Event 3
+## Scenes
 
-## NPCs Encountered
-- [[NPC Name]] - [Brief interaction note]
 
 ## Important Decisions
 - Decision and consequences

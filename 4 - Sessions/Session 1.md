@@ -1,11 +1,10 @@
----
-type: session
-session-number: 1
-date: 2024-01-15
-location: Stonewall
-act: 1
-tags: [session, act1]
----
+**Date:** 09/12/2025
+**In-Game Date:** early spring 7, 989 AN
+
+
+## Quick Summary
+Party learned of Stonewall disaster and got the job to fix it. Managed to get to stonewall beat dungeon and find Aethera.
+
 ## SCENE 1: Roderick Meeting
 
 ### Setting

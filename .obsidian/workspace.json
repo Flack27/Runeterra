@@ -158,49 +158,36 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "010c2b03f3013162",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_9ae9abaa9b48",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 7,
+                    "month": 0,
+                    "year": 989
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_2bea0ad8199a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "eee0b0b0fa5fd76f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9b56f227c48e0037",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_9ae9abaa9b48",
-                "id": "ID_a908c8ba1979",
-                "parent": "ID_98bb185a5bea"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
-      },
-      {
-        "id": "57bd8823f5d5820e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "002478691e340b91",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_9ae9abaa9b48",
-                "id": "ID_1a19e989e8fa",
-                "parent": "ID_18d89b6959e9"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",

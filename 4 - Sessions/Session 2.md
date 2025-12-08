@@ -1,6 +1,5 @@
 **Date:** [Real Date]
 **In-Game Date:** 
-**Location:** [[Primary Location]]
 
 ## Quick Summary
 [One sentence recap]
@@ -104,8 +103,6 @@ _He signs the deed with a flourish._
 > **RODERICK:** "The legal documentation will be filed tomorrow. You are now, officially, the proprietors of Stonewall. Make something beautiful of it, won't you?"
 
 
-## NPCs Encountered
-- [[NPC Name]] - [Brief interaction note]
 
 ## Important Decisions
 - Decision and consequences
