@@ -46,13 +46,13 @@ _Turns to face them with genuine enthusiasm._
 
 ### Matthias's Encouragement
 
-> **MATTHIAS:** _stepping forward with that oily smile_ "A most generous offer, my lord. Unprecedented, really. These adventurers would become landed... proprietors."
+> **MATTHIAS:** "But my lord undoubtably these men are..... brave. But that doesn't mean they can take on such a tremendous responsibility."
 
-> **RODERICK:** _warming to the idea_ "Exactly! You've already cleared the threat. You know the village, the mine, the surrounding area. Who better to rebuild it than those who saved it?"
+> **RODERICK:** "Why not? They show competence why wouldn't that translate? You've already cleared the threat. They know the village, the mine, the surrounding area. Who better to rebuild it than those who saved it?"
 
-_He pulls a scroll from a side table - clearly pre-prepared._
+> **MATTHIAS:** "But lord..."
 
-> **RODERICK:** "The deed to Stonewall and its surrounding lands. The mine rights remain crown property, of course - I'll need that marble - but the village, the farmland, the authority to govern... all yours."
+> **RODERICK:** "That's enough Matthias, go draw up the documents"
 
 ---
 
