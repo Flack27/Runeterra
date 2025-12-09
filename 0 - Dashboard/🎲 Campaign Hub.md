@@ -28,6 +28,7 @@
 
 ### Next Session
 - Demon whispers like when ferro touches the seed
+- Meevo in village managing system
 ### Feature
 - Another Adventuring Day for road back to stonewall with Carnage Demon?
 - Tease the severing hand in Ionia with another destroyed monastery
