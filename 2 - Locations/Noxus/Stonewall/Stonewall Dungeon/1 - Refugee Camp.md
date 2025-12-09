@@ -9,7 +9,7 @@ When they realize you're not more refugees—that you're armed, capable, _alive_
 
 **Key NPCs Present:**
 
-- **Old Perrin** - The Shuriman elder who knows the shrine's pass phrase
+- **Old Perrin** - The Shuriman village elder 
 - **Joren Blackwood** - Young hunter, wounded but eager for revenge
 - **Essa Forthwind** - Exhausted farmer's wife with her adult son
 - Roughly 10 others: elderly, children, wounded

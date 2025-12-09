@@ -8,18 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2cf542ae84a80d3",
+            "id": "bc3bdae5a83e2972",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "5 - Resources/Maps/Quathala/Quathala.png"
+                "file": "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/🗺️ Temple Map.md"
               },
-              "icon": "lucide-image",
-              "title": "Quathala"
+              "icon": "excalidraw-icon",
+              "title": "🗺️ Temple Map"
+            }
+          },
+          {
+            "id": "f6c2bc795df56b1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/4. The Archive + Laboratory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. The Archive + Laboratory"
+            }
+          },
+          {
+            "id": "c48bffb7404a1987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/2. The Library.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. The Library"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/4. The Archive + Laboratory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 4. The Archive + Laboratory"
             }
           },
           {
@@ -110,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/4. The Archive + Laboratory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from 4. The Archive + Laboratory"
             }
           },
           {
@@ -139,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/4. The Archive + Laboratory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 4. The Archive + Laboratory"
             }
           },
           {
@@ -156,43 +187,56 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "eee0b0b0fa5fd76f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "9b56f227c48e0037",
+            "id": "9ffab1a402e7ce51",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM_AGENDA",
+              "type": "CALENDARIUM",
               "state": {
                 "calendar": "ID_9ae9abaa9b48",
-                "id": "ID_a908c8ba1979",
-                "parent": "ID_98bb185a5bea"
+                "ephemeral": {
+                  "viewing": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 989
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 7,
+                    "month": 0,
+                    "year": 989
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_2b3b1b394bd8",
+                "child": "ID_daca0a0a895b"
               },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
-        "id": "57bd8823f5d5820e",
+        "id": "1c6ce68b5ad53452",
         "type": "tabs",
         "children": [
           {
-            "id": "002478691e340b91",
+            "id": "8b190a23d2cd6ab7",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_9ae9abaa9b48",
-                "id": "ID_1a19e989e8fa",
-                "parent": "ID_18d89b6959e9"
+                "id": "ID_daca0a0a895b",
+                "parent": "ID_2b3b1b394bd8"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -219,34 +263,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c2a12de588d8c091",
+  "active": "f6c2bc795df56b1a",
   "lastOpenFiles": [
-    "1 - Characters/PC's/Mukai.md",
-    "1 - Characters/PC's/Marduun.md",
-    "3 - Lore/Mysteries/The Forbidden Arts.md",
-    "3 - Lore/Mysteries/Ashen-Shugar's Sword and Armor.md",
-    "0 - Dashboard/🎲 Campaign Hub.md",
-    "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
-    "5 - Resources/Creatures/Beasts.md",
-    "5 - Resources/Creatures/Celestials.md",
-    "5 - Resources/Creatures/Aberrations.md",
-    "5 - Resources/Additional Resources/Runeterra Magic Items.md",
-    "5 - Resources/Additional Resources/Runeterra Distances.md",
-    "5 - Resources/Additional Resources/Runeterra Currency.md",
-    "5 - Resources/Additional Resources/Random NPC ideas.md",
-    "5 - Resources/Additional Resources/Mukai Description.md",
-    "2 - Locations/Noxus/Quathala/6 The Old Market.md",
-    "2 - Locations/Noxus/Quathala/7 The marble Griffin.md",
-    "2 - Locations/Noxus/Quathala/Bounty Board.md",
-    "2 - Locations/Noxus/Quathala/Quathala.md",
-    "2 - Locations/Noxus/Quathala/5 Pops Tavern.md",
-    "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/5. Prayer Chamber.md",
+    "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/3. Passage.md",
+    "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/4. The Archive + Laboratory.md",
+    "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/1. Entrance Hall.md",
+    "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/2. The Library.md",
+    "2 - Locations/Noxus/Stonewall/Keth'vyss Temple/🗺️ Temple Map.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/🗺️ Stonewall Map.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/7 - Shrine Entrance.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/6 - Marble Mine Approach.md",
+    "1 - Characters/NPC's/Minor/Amos Trask.md",
     "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/5 - Hendrik's House.md",
-    "0 - Dashboard/Act 4 - Finale.md",
-    "1 - Characters/NPC's/Major/Swain.md",
-    "0 - Dashboard/Act 3 - Truth.md",
-    "0 - Dashboard/Act 2 - Ionia.md",
-    "0 - Dashboard/Act 1 - Stonewall.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/4 - The Miner's Rest.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/3 - Docks.md",
+    "5 - Resources/Creatures/Humanoids.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/2 - First Sight.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall Dungeon/1 - Refugee Camp.md",
+    "4 - Sessions/Session 1.md",
+    "2 - Locations/Noxus/Noxian Wilderness Random Encounter Table.md",
+    "5 - Resources/Creatures/Beasts.md",
+    "2 - Locations/Noxus/Quathala/5 Pops Tavern.md",
+    "2 - Locations/Noxus/Quathala/Bounty Board.md",
+    "1 - Characters/NPC's/Major/Aethera, the Tending Light.md",
+    "1 - Characters/NPC's/Supporting/Roderick Voss.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall.md",
+    "2 - Locations/Noxus/Quathala/9 The Crafter's Quarter.md",
+    "2 - Locations/Noxus/Quathala/6 The Old Market.md",
+    "1 - Characters/NPC's/Minor/Matthias Cray.md",
     "5 - Resources/Maps/Quathala/Quathala.png",
     "5 - Resources/Maps/Quathala/Quathala Night.png",
     "5 - Resources/Maps/Quathala/Quathala Night.png.0.pdnSave",
