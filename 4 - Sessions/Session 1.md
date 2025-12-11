@@ -223,3 +223,19 @@ Following the refugees' directions or simple backtracking, you find where they c
 - Refugees' supplies: 2 days rations, waterskins, rope, 8 GP
 - Bodies can be buried (refugees would appreciate this if party mentions it later)
 - Raptor eggs (6 total) - worth 25 GP each in the right market, or could be hatched
+
+
+## Important Decisions
+- Gave money back to villagers
+- Retrieved necklace for Henrik
+- Saved innkeeper daughter (Mira)
+
+## Loot/Rewards
+- Item/reward list
+
+## Clues/Information Gained
+- New information learned
+
+## Next Session Prep
+- [ ] Task 1
+- [ ] Task 2
