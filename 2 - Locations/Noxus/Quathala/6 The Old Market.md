@@ -45,7 +45,7 @@ A large open square with permanent stalls and small shops around the perimeter. 
 - **Traits**: Melancholic, honest, overworks himself
 - **Speech**: Slow speaker, sighs a lot, "I can do... let me see..."
 - **Goods**:
-    - https://dungeonmastertools.github.io/items.html (Adventuring Gear)
+	    - https://dungeonmastertools.github.io/items.html (Adventuring Gear)
 
 ---
 
