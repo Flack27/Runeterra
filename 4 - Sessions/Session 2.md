@@ -37,7 +37,7 @@ Well, if I'm any judge, we're all still breathing and that calls for ale. The de
 
 **"Promised gold"** — Confused. Land IS better. Matthias sneers "simpler folk."
 
-**"Need money now"** — Matthias reluctantly offers 200g. Roderick thinks this is generous.
+**"Need money now"** — Matthias reluctantly offers 500g. Roderick thinks this is generous.
 
 **"Village is worthless"** — Face clouds. Slams table, sputters, can't articulate.
 

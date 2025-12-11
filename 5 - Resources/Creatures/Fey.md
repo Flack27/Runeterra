@@ -16,7 +16,7 @@ Spirits and demons
 | [Spirit Wolf](https://www.dndbeyond.com/monsters/5195272-winter-wolf)          | 3   | Large   | Any                    | Neutral  | Solo   | Ionia  |                       |
 | [Sorrow Spirit](https://www.dndbeyond.com/monsters/5194916-banshee)            | 4   | Medium  | Any                    | Neutral  | Solo   | Any    |                       |
 | [Secret Demon](https://www.dndbeyond.com/monsters/4904865-succubus)            | 4   | Medium  | Any                    | Hunter   | Solo   | Any    |                       |
-| [Carnage Demon](https://www.dndbeyond.com/search?q=shadow%20demon)             | 4   | Mediumn | Any                    | Hunter   | Solo   | Any    |                       |
+| [Carnage Demon](https://www.dndbeyond.com/monsters/5195200-shadow-demon)       | 4   | Mediumn | Any                    | Hunter   | Solo   | Any    |                       |
 | [Wraith](https://www.dndbeyond.com/monsters/5174960-wraith)                    | 5   | Medium  | Any                    | Neutral  | Solo   | Any    |                       |
 | [Dream Spirit](https://www.dndbeyond.com/monsters/5195163-pixie-wonderbringer) | 5   | Tiny    | Forest                 | Neutral  | Solo   | Ionia  |                       |
 | [Mountain Spirit](https://www.dndbeyond.com/monsters/5195002-galeb-duhr)       | 6   | Medium  | Any                    | Neutral  | Solo   | Ionia  |                       |

@@ -80,7 +80,7 @@ At the start they will need some items including
 **Large House**
 
 - **Capacity**: 10 villagers
-- **Cost**: 250 GP
+- **Cost**: 150 GP
 - **Requirement:** Carpenter (Level 2)
 - **Time**: 2 turns
 

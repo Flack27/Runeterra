@@ -27,12 +27,12 @@
 ## To Do
 
 ### Next Session
-- Demon whispers like when ferro touches the seed
 - Meevo in village managing system
 ### Feature
-- Another Adventuring Day for road back to stonewall with Carnage Demon?
+- Another Adventuring Day for road back to Quathala second time with Carnage Demon?
 - Tease the severing hand in Ionia with another destroyed monastery
 - Satisfying way for healing of Bennar
+- Demon whispers like when ferro touches the seed
 
 ---
 ## Next Tasks from Act 1

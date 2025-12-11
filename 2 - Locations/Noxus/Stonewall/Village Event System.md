@@ -306,7 +306,7 @@ During Winter its always Blizzard
     - One major facility damaged: Mine/Harbor/Farm (500 GP, 1 turn repair)
 - **If Party Present:** Can fight Wyvern (CR 6), reduce casualties by half if defeated quickly
 
-#### 5-6. Dragon Attack
+#### 5-6. Drake Attack
 
 - **Effect:** Dragon attacks village
 - **Impact:**
