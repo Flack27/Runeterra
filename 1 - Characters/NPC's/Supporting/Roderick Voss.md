@@ -8,7 +8,6 @@ act-introduced: 1
 character-arc: tragic-victim
 tags: [guy-backstory, political-intrigue, act1-focus, generational-trauma, noxian-politics]
 ---
-
 ## Background
 
 Duke Roderick Voss is the tragic product of a broken family legacy. His father Borric Voss was once friends with [[Guy du Bas-Tyra]], until their bitter rivalry over a woman named Catherine destroyed their bond and set the stage for generational trauma.

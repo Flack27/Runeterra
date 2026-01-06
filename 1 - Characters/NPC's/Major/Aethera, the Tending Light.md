@@ -49,7 +49,6 @@ Each event reinforced the terrible pattern: mortals, when desperate or ambitious
 - **Notable Features:**
     - Her presence feels nurturing but with an undercurrent of profound sadness
     - When emotional, the air around her shimmers between warmth and cold
-
 ## Campaign Story
 
 ### Pre-Campaign: The Confrontation
